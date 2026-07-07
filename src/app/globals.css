@@ -1,0 +1,157 @@
+/* ── Global CSS for BHI Revision Site ─────────────────────────── */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Google Fonts Import ────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* ── CSS Custom Properties ──────────────────────────────────────── */
+:root {
+  --color-primary:   #1e40af;
+  --color-primary-dark: #1e3a8a;
+  --color-accent:    #22c55e;
+  --color-danger:    #dc2626;
+  --color-bg:        #f8fafc;
+  --color-surface:   #ffffff;
+  --color-border:    #e2e8f0;
+  --color-text:      #0f172a;
+  --color-muted:     #64748b;
+}
+
+/* ── Base ───────────────────────────────────────────────────────── */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-900 antialiased;
+    font-family: var(--font-inter, 'Inter', system-ui, sans-serif);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-poppins, 'Poppins', sans-serif);
+    @apply font-semibold tracking-tight;
+  }
+}
+
+/* ── Scrollbar ──────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #f1f5f9; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 99px; }
+::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+
+/* ── Component Utilities ────────────────────────────────────────── */
+@layer components {
+  /* Question card */
+  .question-card {
+    @apply bg-white rounded-xl shadow-sm border border-slate-100 
+           hover:shadow-md transition-shadow duration-200
+           border-l-4 border-l-primary-700;
+  }
+
+  /* Mark badge */
+  .mark-badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold
+           bg-accent-100 text-accent-700 border border-accent-200;
+  }
+
+  /* Topic badge */
+  .topic-badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium
+           bg-primary-50 text-primary-700 border border-primary-100;
+  }
+
+  /* Type badge */
+  .type-badge-theory {
+    @apply inline-flex items-center px-2 py-0.5 rounded text-xs font-medium
+           bg-slate-100 text-slate-600;
+  }
+  .type-badge-calculation {
+    @apply inline-flex items-center px-2 py-0.5 rounded text-xs font-medium
+           bg-amber-50 text-amber-700;
+  }
+  .type-badge-diagram {
+    @apply inline-flex items-center px-2 py-0.5 rounded text-xs font-medium
+           bg-purple-50 text-purple-700;
+  }
+
+  /* Buttons */
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl
+           bg-primary-800 hover:bg-primary-700 text-white font-semibold
+           transition-all duration-200 shadow-md hover:shadow-lg
+           active:scale-[0.98] focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2;
+  }
+
+  .btn-accent {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl
+           bg-accent-500 hover:bg-accent-400 text-white font-semibold
+           transition-all duration-200 shadow-md hover:shadow-lg
+           active:scale-[0.98] focus:outline-none focus:ring-2 focus:ring-accent-400 focus:ring-offset-2;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 px-4 py-2 rounded-lg
+           text-slate-600 hover:bg-slate-100 font-medium
+           transition-all duration-150;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl
+           border-2 border-primary-700 text-primary-700 hover:bg-primary-700 hover:text-white
+           font-semibold transition-all duration-200;
+  }
+
+  /* Explanation box */
+  .explanation-box {
+    @apply bg-gradient-to-br from-primary-50 to-slate-50 border border-primary-100
+           rounded-xl p-5 text-sm text-slate-700 leading-relaxed;
+  }
+
+  /* Section container */
+  .container-page {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}
+
+/* ── Prose overrides for explanation content ────────────────────── */
+.explanation-content {
+  line-height: 1.8;
+}
+
+.explanation-content ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+}
+
+.explanation-content ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+}
+
+.explanation-content p {
+  margin-bottom: 0.75rem;
+}
+
+/* ── Animations ─────────────────────────────────────────────────── */
+@layer utilities {
+  .animate-fade-in {
+    animation: fadeIn 0.4s ease-out;
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.4s ease-out;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}

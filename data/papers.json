@@ -1,0 +1,475 @@
+[
+  {
+    "subject": "economics",
+    "year": 2026,
+    "sitting": "April 2026",
+    "questionCount": 25,
+    "topicsCovered": [
+      "Economic Systems",
+      "Consumer Behaviour",
+      "Inflation",
+      "Elasticity",
+      "Demand & Supply",
+      "Unemployment",
+      "Fiscal Policy",
+      "Production & Costs",
+      "Market Structures",
+      "National Income",
+      "Economic Development",
+      "Money & Banking",
+      "International Trade"
+    ]
+  },
+  {
+    "subject": "economics",
+    "year": 2025,
+    "sitting": "December 2025",
+    "questionCount": 35,
+    "topicsCovered": [
+      "Elasticity",
+      "Demand & Supply",
+      "Consumer Behaviour",
+      "Factor Markets",
+      "National Income",
+      "Economic Development",
+      "Market Structures"
+    ]
+  },
+  {
+    "subject": "economics",
+    "year": 2025,
+    "sitting": "August 2025",
+    "questionCount": 34,
+    "topicsCovered": [
+      "Elasticity",
+      "Money & Banking",
+      "Inflation",
+      "Demand & Supply",
+      "Unemployment",
+      "National Income",
+      "Consumer Behaviour",
+      "Economic Development",
+      "Production & Costs",
+      "Market Structures"
+    ]
+  },
+  {
+    "subject": "economics",
+    "year": 2025,
+    "sitting": "April 2025",
+    "questionCount": 33,
+    "topicsCovered": [
+      "Elasticity",
+      "Money & Banking",
+      "Economic Development",
+      "Demand & Supply",
+      "Monetary Policy",
+      "Consumer Behaviour",
+      "Fiscal Policy",
+      "Market Structures",
+      "International Trade",
+      "National Income",
+      "Inflation",
+      "Factor Markets"
+    ]
+  },
+  {
+    "subject": "economics",
+    "year": 2024,
+    "sitting": "December 2024",
+    "questionCount": 38,
+    "topicsCovered": [
+      "Money & Banking",
+      "Economic Development",
+      "Fiscal Policy",
+      "International Trade",
+      "Factor Markets",
+      "Consumer Behaviour",
+      "Elasticity",
+      "Macro Models (IS-LM)",
+      "Demand & Supply"
+    ]
+  },
+  {
+    "subject": "economics",
+    "year": 2024,
+    "sitting": "August 2024",
+    "questionCount": 38,
+    "topicsCovered": [
+      "Demand & Supply",
+      "Factor Markets",
+      "Monetary Policy",
+      "International Trade",
+      "Consumer Behaviour",
+      "Economic Development",
+      "Fiscal Policy",
+      "Elasticity",
+      "National Income",
+      "Money & Banking",
+      "Market Structures",
+      "Production & Costs"
+    ]
+  },
+  {
+    "subject": "economics",
+    "year": 2024,
+    "sitting": "April 2024",
+    "questionCount": 37,
+    "topicsCovered": [
+      "Demand & Supply",
+      "Elasticity",
+      "Consumer Behaviour",
+      "Unemployment",
+      "Monetary Policy",
+      "National Income",
+      "Economic Development",
+      "International Trade",
+      "Production & Costs",
+      "Factor Markets",
+      "Inflation",
+      "Money & Banking"
+    ]
+  },
+  {
+    "subject": "economics",
+    "year": 2023,
+    "sitting": "December 2023",
+    "questionCount": 33,
+    "topicsCovered": [
+      "Elasticity",
+      "Money & Banking",
+      "International Trade",
+      "Economic Development",
+      "Consumer Behaviour",
+      "Demand & Supply",
+      "Market Structures",
+      "Factor Markets",
+      "Fiscal Policy",
+      "Production & Costs"
+    ]
+  },
+  {
+    "subject": "economics",
+    "year": 2023,
+    "sitting": "August 2023",
+    "questionCount": 33,
+    "topicsCovered": [
+      "Economic Systems",
+      "Unemployment",
+      "Elasticity",
+      "Economic Development",
+      "National Income",
+      "Money & Banking",
+      "Market Structures",
+      "Factor Markets",
+      "Production & Costs",
+      "International Trade"
+    ]
+  },
+  {
+    "subject": "economics",
+    "year": 2023,
+    "sitting": "April 2023",
+    "questionCount": 34,
+    "topicsCovered": [
+      "Market Structures",
+      "Elasticity",
+      "Economic Development",
+      "Consumer Behaviour",
+      "Demand & Supply",
+      "Inflation",
+      "Macro Models (IS-LM)",
+      "National Income",
+      "Factor Markets"
+    ]
+  },
+  {
+    "subject": "economics",
+    "year": 2022,
+    "sitting": "December 2022",
+    "questionCount": 37,
+    "topicsCovered": [
+      "International Trade",
+      "Elasticity",
+      "National Income",
+      "Factor Markets",
+      "Economic Development",
+      "Inflation",
+      "Demand & Supply",
+      "Monetary Policy",
+      "Production & Costs",
+      "Money & Banking",
+      "Fiscal Policy"
+    ]
+  },
+  {
+    "subject": "economics",
+    "year": 2022,
+    "sitting": "August 2022",
+    "questionCount": 63,
+    "topicsCovered": [
+      "Elasticity",
+      "Economic Development",
+      "Money & Banking",
+      "Factor Markets",
+      "Inflation",
+      "Consumer Behaviour",
+      "Production & Costs",
+      "Fiscal Policy",
+      "National Income",
+      "Market Structures",
+      "Demand & Supply",
+      "Macro Models (IS-LM)",
+      "Monetary Policy"
+    ]
+  },
+  {
+    "subject": "fa",
+    "year": 2025,
+    "sitting": "December 2025",
+    "questionCount": 19,
+    "topicsCovered": [
+      "Accounting Theory & Framework",
+      "Suspense Accounts & Error Correction",
+      "Non-Profit Organisations",
+      "Company Financial Statements",
+      "Liabilities & Equity"
+    ]
+  },
+  {
+    "subject": "fa",
+    "year": 2025,
+    "sitting": "August 2025",
+    "questionCount": 24,
+    "topicsCovered": [
+      "Accounting Theory & Framework",
+      "Non-Profit Organisations",
+      "Sole Trader Statements",
+      "Cash Flow Statements",
+      "Company Financial Statements",
+      "Suspense Accounts & Error Correction",
+      "Assets & Depreciation"
+    ]
+  },
+  {
+    "subject": "fa",
+    "year": 2025,
+    "sitting": "April 2025",
+    "questionCount": 28,
+    "topicsCovered": [
+      "Public Sector Accounting (IPSAS)",
+      "Accounting Theory & Framework",
+      "Assets & Depreciation",
+      "Non-Profit Organisations",
+      "Company Financial Statements",
+      "Suspense Accounts & Error Correction",
+      "Liabilities & Equity",
+      "Manufacturing Accounts"
+    ]
+  },
+  {
+    "subject": "fa",
+    "year": 2024,
+    "sitting": "December 2024",
+    "questionCount": 44,
+    "topicsCovered": [
+      "Public Sector Accounting (IPSAS)",
+      "Accounting Theory & Framework",
+      "Sole Trader Statements",
+      "Assets & Depreciation",
+      "Company Financial Statements",
+      "Suspense Accounts & Error Correction",
+      "Cash Flow Statements",
+      "Liabilities & Equity",
+      "Manufacturing Accounts",
+      "Non-Profit Organisations"
+    ]
+  },
+  {
+    "subject": "fa",
+    "year": 2024,
+    "sitting": "April 2024",
+    "questionCount": 180,
+    "topicsCovered": [
+      "Accounting Theory & Framework",
+      "Liabilities & Equity",
+      "Public Sector Accounting (IPSAS)",
+      "Assets & Depreciation",
+      "Company Financial Statements",
+      "Non-Profit Organisations",
+      "Partnership Accounts",
+      "Suspense Accounts & Error Correction"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2026,
+    "sitting": "April 2026",
+    "questionCount": 50,
+    "topicsCovered": [
+      "Linear Programming",
+      "Matrix Algebra",
+      "Calculus & Applications",
+      "Probability & Distributions",
+      "Correlation & Regression",
+      "Time Series",
+      "Decision Theory"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2025,
+    "sitting": "December 2025",
+    "questionCount": 66,
+    "topicsCovered": [
+      "Linear Programming",
+      "Probability & Distributions",
+      "Cost-Volume-Profit",
+      "Matrix Algebra",
+      "Correlation & Regression",
+      "Decision Theory",
+      "Time Series"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2025,
+    "sitting": "August 2025",
+    "questionCount": 52,
+    "topicsCovered": [
+      "Calculus & Applications",
+      "Probability & Distributions",
+      "Linear Programming",
+      "Time Series",
+      "Correlation & Regression",
+      "Matrix Algebra",
+      "Cost-Volume-Profit",
+      "Decision Theory"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2025,
+    "sitting": "April 2025",
+    "questionCount": 51,
+    "topicsCovered": [
+      "Linear Programming",
+      "Cost-Volume-Profit",
+      "Probability & Distributions",
+      "Time Series",
+      "Correlation & Regression",
+      "Decision Theory"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2024,
+    "sitting": "December 2024",
+    "questionCount": 45,
+    "topicsCovered": [
+      "Linear Programming",
+      "Matrix Algebra",
+      "Probability & Distributions",
+      "Time Series",
+      "Calculus & Applications",
+      "Decision Theory",
+      "Correlation & Regression"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2024,
+    "sitting": "August 2024",
+    "questionCount": 103,
+    "topicsCovered": [
+      "Linear Programming",
+      "Correlation & Regression",
+      "Probability & Distributions",
+      "Matrix Algebra",
+      "Decision Theory",
+      "Time Series",
+      "Calculus & Applications"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2023,
+    "sitting": "December 2023",
+    "questionCount": 45,
+    "topicsCovered": [
+      "Linear Programming",
+      "Calculus & Applications",
+      "Correlation & Regression"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2023,
+    "sitting": "August 2023",
+    "questionCount": 51,
+    "topicsCovered": [
+      "Decision Theory",
+      "Linear Programming",
+      "Correlation & Regression",
+      "Probability & Distributions",
+      "Matrix Algebra",
+      "Network Analysis (CPM/PERT)",
+      "Cost-Volume-Profit"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2023,
+    "sitting": "April 2023",
+    "questionCount": 42,
+    "topicsCovered": [
+      "Probability & Distributions",
+      "Linear Programming",
+      "Calculus & Applications",
+      "Network Analysis (CPM/PERT)",
+      "Matrix Algebra",
+      "Decision Theory",
+      "Time Series"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2022,
+    "sitting": "December 2022",
+    "questionCount": 45,
+    "topicsCovered": [
+      "Linear Programming",
+      "Probability & Distributions",
+      "Decision Theory"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2022,
+    "sitting": "August 2022",
+    "questionCount": 98,
+    "topicsCovered": [
+      "Matrix Algebra",
+      "Linear Programming",
+      "Calculus & Applications",
+      "Decision Theory",
+      "Correlation & Regression",
+      "Probability & Distributions",
+      "Time Series"
+    ]
+  },
+  {
+    "subject": "qa",
+    "year": 2022,
+    "sitting": "August 2022",
+    "questionCount": 59,
+    "topicsCovered": [
+      "Matrix Algebra",
+      "Linear Programming",
+      "Calculus & Applications",
+      "Decision Theory",
+      "Probability & Distributions",
+      "Correlation & Regression"
+    ]
+  }
+]

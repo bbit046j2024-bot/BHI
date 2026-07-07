@@ -1,0 +1,3747 @@
+
+--- PAGE 1 ---
+               CA15 & CF15 Page 1  
+                                                                                                                Out of 4 
+ 
+ 
+CERTIFIED PUBLIC ACCOUNTANTS (CPA) 
+ 
+CERTIFIED INVESTMENT AND FINANCIAL ANALYSTS (CIFA)  
+ 
+FOUNDATION LEVEL 
+ 
+QUANTITATIVE ANALYSIS 
+ 
+WEDNESDAY: 22 April 2026. Morning Paper.  Time Allowed: 3 hours.  
+ 
+This paper consists of five (5) questions. Answer ALL questions. Marks allocated to each question  are shown at the 
+end of the question. Show ALL your workings. Do NOT write anything on this paper. 
+ 
+QUESTION ONE 
+(a) Explain the following terms as used in the quantitative analysis: 
+ 
+(i) Function.  (1 mark) 
+ 
+(ii) Domain of a function.  (1 mark) 
+ 
+(iii) Matrix.  (1 mark) 
+ 
+(iv) Differentiation.  (1 mark) 
+ 
+(b) A logistics company in Mombasa manages the transportation of two types of goods , A and B  to two destinations; 
+Nairobi and Kisumu. 
+ 
+Matrix A represents the number of truckloads (in tens) allocated to each destination, while matrix B represents cost 
+adjustment factors (in Sh.“000”) per route due to changes in fuel prices and road conditions. 
+ 
+A = (4 2
+1 3) ,  B = (2 1
+5 2) 
+ 
+Management wishes to analyse the combined effect of transportation allocations and cost adjustments. 
+ 
+ Required: 
+(i) Determine the matrix A + B. Interpret the meaning of each element in the resulting matrix.  (4 marks) 
+ 
+(ii) Determine the matrix product AB. Explain what the resulting matrix represents in the context of 
+transportation planning.  (4 marks) 
+ 
+(c) A medium-sized manufacturing firm based in Nairobi produces bottled fruit juice for the local and regional market 
+in Kenya, Uganda and Tanzania. The firm operates in a competitive but price-sensitive market where demand is 
+influenced by consumer income and availability of substitutes such as carbonated drinks.  
+ 
+ Market research conducted by the firm indicates that the demand for its product is given by:  
+ P = 120 − 0.5Q  
+ 
+ Where: 
+P is the price per unit (in Shillings) and Q is the number of units produced and sold per day. 
+ 
+ The firm’s cost structure reflects high fixed costs due to machinery, licensing and compliance with Bureau of 
+Standards, as well as variable costs such as raw materials, labour and electricity. The total cost function is given as 
+follows: 
+ 
+ TC = 3000 + 30Q + 0.1Q2  
+ 
+ Due to space limitations and machinery capacity, the firm can produce a maximum of 15,000 units per day. 
+www.chopi.co.ke
+--- PAGE 2 ---
+Chopi.co.ke
+               CA15 & CF15 Page 2  
+                                                                                                                Out of 4 
+ Required: 
+(i) Determine the firm’s profit-maximising level of output and price.  (4 marks) 
+ 
+(ii) Compute the level of profit at this level of output. (2 marks) 
+ 
+(iii) Advise management on whether producing at the profit -maximising output is feasible given the firm’s 
+production capacity. (2 marks) 
+    (Total: 20 marks) 
+ 
+QUESTION TWO 
+(a) A manufacturing company produces a commodity whose total cost function ( in Shillings “000”) is given by: 
+ 
+ C(x) = 2x3 −15x2 + 36x + 50  
+ 
+ Where x represents the number of units produced (in hundreds). 
+ 
+ Required: 
+(i) Determine the marginal cost function.   (2 marks) 
+ 
+(ii) Calculate the level of output at which the marginal cost is minimised.  (3 marks) 
+ 
+(iii) Determine the minimum marginal cost. (2 marks) 
+ 
+(iv) Interpret your results in (a) (ii) and (iii) above in the context of production efficiency.  (1 mark) 
+ 
+(b) A retail distribution company recorded the weekly wages (in Shillings “000”) paid to its employees in one of its 
+regional branches. The wage distribution is summarised in the table below: 
+ 
+Weekly wage (Sh.“000”) Number of employees 
+10 – 20 6 
+20 – 30 10 
+30 – 40 14 
+40 – 50 20 
+50 – 60 18 
+60 – 70 12 
+70 – 80 8 
+80 – 90 7 
+90 – 100 5 
+ 
+ Required:  
+(i) Determine the mode of the wage distribution. (2 marks) 
+ 
+(ii) Compute the median weekly wage.  (2 marks) 
+ 
+(iii) Calculate the quartile deviation of the wage distribution.  (3 marks) 
+ 
+(iv) Calculate the standard deviation of the weekly wages.  (3 marks) 
+ 
+(v) Determine the coefficient of variation. Comment on the consistency of wages in the branch.  (2 marks) 
+   (Total: 20 marks) 
+ 
+QUESTION THREE 
+(a) Explain the following concepts as used in probability: 
+ 
+(i) Mutually exclusive events.  (2 marks) 
+ 
+(ii) Independent events.  (2 marks) 
+ 
+ 
+ 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 3 ---
+               CA15 & CF15 Page 3  
+                                                                                                                Out of 4 
+(b) A large Kenyan logistics company operating across Nairobi, Eldoret and Mombasa employs staff in three 
+departments: Finance, Sales and Operations. The proportions of employees in each department are 45%, 30% and 
+25% respectively. Historical records show that the probability that an employee is absent on any given day is 0.03 
+for Finance Department, 0.06 for Sales Department and 0.04 for Operations Department. 
+ 
+ The management is concerned about rising staff absenteeism and has also conducted a study on daily output levels. 
+A random sample of 49 employees recorded an average output index of 54 units  with a standard deviation of                           
+14 units. The company’s expected standard output is 50 units. 
+ 
+ Required: 
+(i) Using Bayes’ theorem, determine the probability that an employee belongs to the Sales department given 
+that the employee is absent. Clearly interpret your result in the context of absenteeism.  (8 marks) 
+ 
+(ii) Test, at the 5% significance level, whether the average output differs significantly from the expected 
+standard output of 50 units. Clearly state the hypotheses, test statistic and conclusion.  (8 marks) 
+   (Total: 20 marks) 
+ 
+QUESTION FOUR 
+(a) Distinguish between the following statistical techniques: 
+ 
+(i) “Correlation analysis” and “regression analysis”.  (2 marks) 
+ 
+(ii) “Moving average” and “exponential smoothing”.  (2 marks) 
+ 
+(b) A car dealership operating in Kampala is analysing the relationship between advertising expenditure and sales 
+performance over several periods. The management intends to use statistical tools to model this relationship and to 
+make short-term forecasts. 
+ 
+ The following data were obtained: 
+ 
+Advertising expenditure (Sh. million) 20 40 60 80 
+Sales (units) 10 14 19 23 
+ 
+ Required: 
+(i) Determine the regression equation of sales on advertising expenditure . Interpret the meaning of the slope 
+coefficient in the context of the business. (4 marks) 
+ 
+(ii) Estimate the expected sales when advertising expenditure is Sh. 50 million. Comment on the reliability of 
+the estimate. (2 marks) 
+ 
+(iii) Giving reasons, explain whether regression analysis or moving average would be more appropriate for 
+forecasting sales in this scenario. (2 marks) 
+ 
+(c) A milk processing company has recorded quarterly milk sales (in thousand litres) over two years as shown below:  
+ 
+Quarter Year 1 Year 2 
+Q1 120 150 
+Q2 160 200 
+Q3 200 240 
+Q4 180 220 
+ 
+ The management intends to analyse both the  trend and seasonal variations  in sales to improve production and 
+distribution planning. 
+ 
+ Required: 
+(i) Compute the 4-quarter moving averages and centred moving averages.  (4 marks) 
+ 
+(ii) Using the ratio-to-moving-average method, compute the seasonal indices for each quarter and adjust them 
+so that their total equals 400. (3 marks) 
+ 
+(iii) Using the seasonal indices obtained in (c) (ii) above, explain how the company can improve its production 
+scheduling and inventory management. (1 mark) 
+   (Total: 20 marks) 
+www.chopi.co.ke
+--- PAGE 4 ---
+Chopi.co.ke
+               CA15 & CF15 Page 4  
+                                                                                                                Out of 4 
+QUESTION FIVE 
+(a) Highlight FOUR assumptions of linear programming.  (4 marks) 
+ 
+(b) A manufacturing firm located in the Industrial Area, Nairobi produces two products, A and B, using labour and 
+machine resources. Due to increased demand and rising operational costs, the firm seeks to determine the optimal 
+production mix to maximise weekly profit. 
+ 
+ Each unit of product A requires: 
+• 3 hours of labour 
+• 2 hours of machine time 
+ 
+ Each unit of product B requires: 
+• 2 hours of labour 
+• 4 hours of machine time 
+ 
+ The total available resources per week are: 
+• Labour: 120 hours 
+• Machine time: 160 hours 
+ 
+ The profit contribution per unit is: 
+• Product A: Sh.300 
+• Product B: Sh.400 
+ 
+ Required: 
+(i) Formulate a linear programming model for the above problem, clearly defining the decision variables, 
+objective function and constraints. (3 marks) 
+ 
+(ii) Using the graphical method, determine the optimal production quantities of products A and B. Clearly 
+show the feasible region and all corner points. (4 marks) 
+ 
+(iii) Determine the maximum profit . Interpret the result in the context of the firm’s operations.                             
+ (1 mark) 
+ 
+(c) A manufacturing company is considering expanding its production capacity to meet anticipated demand in the East 
+African market. The management is evaluating two strategies; constructing a large plant or a small plant. 
+ 
+ The expected payoffs (in Sh.“000”) under different demand conditions are as follows: 
+ 
+Strategy High demand Moderate demand Low demand 
+Large plant 800 400 –200 
+Small plant 500 300 100 
+ 
+ The probabilities of demand levels are: 
+• High demand = 0.5 
+• Moderate demand = 0.3 
+• Low demand = 0.2 
+ 
+ Required: 
+(i) Construct a decision tree to represent the above problem, clearly indicating all probabilities and payoffs .                                           
+ (3 marks) 
+ 
+(ii) Compute the Expected Monetary Value (EMV) for each strategy. (3 marks) 
+ 
+(iii) Recommend the most appropriate strategy and justify your answer, considering both return and risk.                                            
+ (2 marks) 
+ (Total: 20 marks) 
+…………………………………………………………………………….. 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 5 ---
+ CA15 & CF15 Page 1 
+  Out of 5 
+ 
+ 
+ 
+ 
+CERTIFIED PUBLIC ACCOUNTANTS (CPA) 
+ 
+CERTIFIED INVESTMENT AND FINANCIAL ANALYSTS (CIFA) 
+ 
+ FOUNDATION LEVEL 
+ 
+QUANTITATIVE ANALYSIS 
+ 
+WEDNESDAY: 3 December 2025. Morning Paper.  Time Allowed: 3 hours. 
+ 
+This paper consists of seven (7) questions. Answer any FIVE questions. ALL questions carry equal marks.  Show 
+ALL your workings. Do NOT write anything on this paper.  
+ 
+QUESTION ONE 
+(a) Highlight FOUR considerations in determining when to employ a sample in collecting data.  (4 marks) 
+ 
+(b) The probability of an investor achieving the target profit in a given financial period is 0.12.  
+ 
+Required:  
+ Assuming that the investor makes eight investment trials, determine: 
+ 
+(i) The probability that the investor meets the target profit exactly 4 times.  (1 mark) 
+ 
+(ii) The probability that the investor meets the target profit at least once. (2 marks) 
+ 
+(iii) The expected value. (1 mark) 
+ 
+(iv) The variance. (1 mark) 
+ 
+(c) The total revenue function of producing product A is linear in nature. 
+ 
+Th following data shows the number of units of product A sold and the corresponding sales revenue in thousands 
+of shillings: 
+ 
+Sales Revenue (Sh.“000”)             24               37.5 
+Number of units sold, Q               50                  80 
+ 
+The total cost (TC) function is given as TC = 170Q + 5700 (in thousands in shillings.) 
+ 
+Required: 
+(i) Formulate the revenue function.  (5 marks) 
+ 
+(ii) Determine the break even quantity of producing product A. (4 marks) 
+ 
+(iii) Determine the total profit when the number of units sold is 250 units. (2 marks)      
+  (Total: 20 marks) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.chopi.co.ke
+--- PAGE 6 ---
+Chopi.co.ke
+ CA15 & CF15 Page 2 
+  Out of 5 
+ 
+QUESTION TWO 
+(a) Boramax Ltd. has won a tender to supply 500 doors, 900 windows and 1,500 metallic cabinets to a housing 
+agency.  The management of Boramax Ltd. decided that 300 doors, 400 windows and 700 metallic cabinets could 
+be    supplied by supplier A and the balance of the order could be filled from supplier B.   
+ 
+The following details were provided by the suppliers: 
+ 
+1. Production of each door requires 2 hours in welding department, 7 hours in the painting department and 5 
+hours in the drying department. 
+2. Production of windows requires 3 hours in the welding department, 5 hours in the painting department  
+and 9 hours in the drying department. 
+3. Production of metallic cabinet requires 3 hours in the welding department, 5 hours in the painting 
+department and 5 hours in the drying department. 
+4. The cost per hour in the welding, painting and drying department is Sh.30, Sh,70 and Sh.110 
+respectively. 
+ 
+Required: 
+Using the matrix algebra, calculate: 
+ 
+(i) The total number of hours required at each department. (6 marks) 
+ 
+(ii) Calculate the total cost incurred by each supplier. (3 marks) 
+ 
+(iii) The total cost incurred by Boramax Ltd. to supply the order. (1 mark) 
+ 
+(b) The number of hours spent studying for an examination by 8 students together with the marks achieved in the 
+examination are given in the table below: 
+ 
+Time   (X) 2 3 4 5 6 7 8 9 
+Marks (Y) 40 38 54 44 54 58 70 80 
+ 
+Required: 
+(i) Draw a scatter diagram to represent the above data. (3 marks) 
+ 
+(ii) Comment on the nature of the relationship obtained in (b) (i) above.  (1 mark) 
+ 
+(iii) Calculate the regression of Y and X.  (5 marks) 
+ 
+(iv) Fit the regression equation obtained in (b) (iii) above on the same axis in the scatter diagram in (b) (i) 
+above. (1 mark) 
+ (Total: 20 marks) 
+ 
+QUESTION THREE 
+(a) Enumerate FOUR assumptions implied in the application of the linear regression model. (4 marks) 
+ 
+(b) The amounts of profit for 76 companies was recorded as shown below: 
+ 
+Profits (Sh.“000”) Number of companies 
+15 – 19 8 
+20 – 24 10 
+25 – 29 14 
+30 – 34 21 
+35 – 39 11 
+40 – 44 8 
+45 – 49 4 
+ 
+Required: 
+(i) Arithmetic mean profit.  (2 marks) 
+ 
+(ii) Modal profit.  (2 marks) 
+ 
+(iii) Median profit.  (2 marks) 
+ 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 7 ---
+ CA15 & CF15 Page 3 
+  Out of 5 
+ 
+(iv) Standard deviation of the data.  (2 marks) 
+ 
+(v) Coefficient of variation of the data. (2 marks) 
+ 
+(c) The immigration department conducted a survey that revealed the monthly number of tourists that visit ed a certain 
+country in the first six months of year 2025 from eight countries worldwide as recorded in the table below:  
+ 
+Country of origin A B C D E F G H 
+Monthly number of tourists 252 230 310 360 290 410 380 400 
+ 
+Required: 
+(i) Test the hypothesis that the  number of tourists does not depend on their country of origin at 1% 
+significant level. (5 marks)  
+ 
+(ii) Interpret the result in (c) (i) above. (1 mark)  
+ (Total: 20 marks) 
+ 
+QUESTION FOUR 
+(a) An airline has a regular flight from one airport to another.  The airline  models the duration of a flight as normally 
+distributed random variables with a mean of 185 minutes and variance of 36 minutes.  
+ 
+Required: 
+Use this model to calculate the percentage of the flights that are completed in: 
+(i) Less than 3 hours 11 minutes.  (2 marks) 
+ 
+(ii) Less than 3 hours.  (2 marks) 
+ 
+(iii) More than 3 and one quarter hours.  (2 marks) 
+ 
+(b) The function of a certain curve is given as Y = 9x2 – 10x + 36 
+ 
+Required: 
+Find the integral of the function. (2 marks) 
+ 
+(c) CloudTech Limited is considering to launch a new so ftware design.  However, demand for the proposed software 
+design is uncertain and the company can either launch the new design immediately or conduct market research 
+before making decision which could either be a favourable or unfavourable outcome. If the research outcome is 
+favourable, CloudTech Ltd. can proceed with the launch. If the research outcome is unfavourable, company has 
+the option to abandon the launch. 
+The probabilities and pay offs were given as below: 
+ 
+Option 1:  Launch immediately 
+ Probability of high demand will be 50% with a project profit of Sh.1,200,000. 
+ Probability of low demand will be 30% with a project loss of Sh.400,000. 
+ Probability of no demand will be 20% with zero pay off. 
+ 
+Option 2: Conduct market research at cost of Sh.300,000  
+ Probability of favourable research outcome is 60%. 
+ Probability of unfavourable research outcome is 40%. 
+ If the research outcome is favourable, the demand will be 70% with a project profit of Sh.800,000. 
+ Probability of low demand will be 30% with a projected loss of Sh.200,000. 
+ If research outcome is unfavourable , the company can choose to abandon the launch in curring only the 
+Sh.300,000 research costs. 
+ 
+Required: 
+(i) Construct a decision tree based on the given probability and outcomes. (8 marks) 
+ 
+(ii) Calculate the expected monetary value for each option. (3 marks) 
+ 
+(iii) Recommend the best investment decision for the company.  (1 mark) 
+ (Total: 20 marks) 
+www.chopi.co.ke
+--- PAGE 8 ---
+Chopi.co.ke
+ CA15 & CF15 Page 4 
+  Out of 5 
+ 
+QUESTION FIVE 
+(a) A total of 1 ,232 students in Elimu College have taken a course in Spanish, 879  students have taken a cour se in 
+French and 114 students have taken a course in Russia. Further 103  students have taken a course in both Spanish 
+and French, 23  students have taken a course in both Spanish and Russia and 14 students have taken courses  in 
+both French and Russia. 
+ 
+Required: 
+If 2,092 students have taken at least one of the three courses: 
+ 
+(i) Present the above information in a venn diagram. (4 marks) 
+ 
+(ii) Determine the number of students that have taken a course in all the three languages.  (2 marks) 
+ 
+(iii) Determine the number of students that have taken at least two of the three languages. (2 marks) 
+ 
+(b) The probabilities that a sportsman makes a certain dangerous journey by car, motor bike or on foot are 1/2, 1/6 
+and 1/3 respectively. Probabilities of an accident occurring using a car, motorbike or on foot are 1/5, 3/5 and 1/10 
+respectively. 
+ 
+Required: 
+(i) Draw a tree diagram to represent the above information. (3 marks) 
+ 
+(ii) Determine the probability of an accident occurring using any of the three means.  (3 marks) 
+ 
+(iii) If it is known that the sport sman had an accident, find the probabilities of him having travelled by car, 
+motorbike or on foot. (3 marks) 
+ 
+(iv) If is known that the sportsman arrived safely, find the probabilities of him having travelled by the car, 
+motor bike or on foot. (3 marks) 
+ (Total: 20 marks) 
+ 
+QUESTION SIX 
+(a) Find the value of the following integral:  
+ 
+ (2x3 + 7x – 2) dx for an interval between x = 0 and x = 3.  (4 marks) 
+ 
+(b) Enumerate FOUR disadvantages of using mode as measure of central tendency. (4 marks) 
+ 
+(c) A manufacturing firm  purchases two products, A and B. Each unit of a product A requires 2 hours of skilled 
+labour and 3 kg of raw materials. Each unit of product B requires 4 hours of skilled labour and 2 kg of raw 
+materials. The firm has 100 hours of labour and 110 kg of raw materi als available  per week. Profit per unit is 
+Sh.40 for product A and Sh.30 for product B. The firm wants to maximise weekly profit.  
+ 
+Required: 
+Formulate the above information as a linear programming problem in order to maximise weekly profit. (4 marks)  
+ 
+(d) After a couple of iterations, the simplex method produced the following mid iteration table in (c) above: 
+ 
+Basis A B S1 S2 Z 
+S1 
+A 
+0 
+1 2⅔ 
+⅔ 
+1 
+0 -⅔ 
+⅓ 
+26 2/3 
+36 2/3 
+Z 0 -3⅓ 0 13⅓ 1,466 2/3 
+ 
+Required: 
+(i) Produce the final simplex tableau. (5 marks) 
+ 
+(ii) State the optimal production plan. (1 mark) 
+ 
+(iii) Find the slack for each constraint. (1 mark) 
+ 
+(iv) Give the shadow price for labour and raw material. (1 mark)  
+ (Total: 20 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 9 ---
+ CA15 & CF15 Page 5 
+  Out of 5 
+ 
+QUESTION SEVEN 
+(a) Explain the following terms: 
+ 
+(i) Mean absolute deviation. (2 marks) 
+ 
+(ii) Mean square error. (2 marks) 
+ 
+(b) The table below shows the number of ho urs that 8 students spent revising for an accounting test and the 
+corresponding marks(Y) they obtained: 
+ 
+Time (Hours) 2 3 5 5 6 7 8 9 
+Marks (%) 40 38 54 44 54 58 70 80 
+ 
+Required: 
+(i) Calculate the Spearman’s rank correlation coefficient between hours studied and marks obtained .                            
+ (5 marks) 
+ 
+(ii) Interpret the meaning of the value (R) in relation to the association between study time and performance.   
+ (1 mark) 
+ 
+(c) A retail company recorded the monthly sales in units of one of its best-selling products over the past 6 month s of 
+the year 2025:  
+ 
+Month Sales (units) 
+June 420 
+July 440 
+August 415 
+September 430 
+October 425 
+November 445 
+ 
+Required: 
+(i) Forecast the sales for the month of December 2025 using the exponential smoothing method with a 
+smoothing constant α = 0.2. (6 marks) 
+ 
+(ii) Calculate three months moving average forecast for December 2025. (2 marks) 
+ 
+(iii) Forecast the sales for December 2025 using the 3 months weighted moving averages with weights of 0.5, 
+0.3 and 0.2 starting with the most recent time period and backwards.   
+ (2 marks) 
+ (Total: 20 marks) 
+............................................................................................................. 
+ 
+ 
+ 
+  
+www.chopi.co.ke
+--- PAGE 10 ---
+ CA15 & CF15 Page 1 
+  Out of 4 
+ 
+ 
+ 
+ 
+CPA FOUNDATION LEVEL 
+ 
+CIFA FOUNDATION LEVEL 
+ 
+QUANTITATIVE ANALYSIS 
+ 
+WEDNESDAY: 20 August 2025. Morning Paper.  Time Allowed: 3 hours. 
+ 
+This paper consists of seven (7) questions. Answer any FIVE  questions. ALL questions carry equal marks.  Show 
+ALL your workings. Do NOT write anything on this paper.  
+ 
+QUESTION ONE 
+(a) Using appropriate formular, differentiate between “variance” and “standard deviation” as used in statistics.                      
+  (4 marks) 
+ 
+(b) Customers arrive at a particular supermarket ex it at the rate of 4 customers per minute. The distribution of arrivals 
+approximate a Poisson distribution. 
+ 
+Required: 
+Determine the probability that: 
+ 
+(i) No customer arrives in a particular minute. (1 mark) 
+ 
+(ii) At least one customer arrives during a particular minute. (1 mark) 
+ 
+(iii) At most one customer arrives during a particular minute. (2 marks) 
+ 
+(c) The quarterly sales of Meshek Traders during the years 2022, 2023 and 2024 were as tabulated below: 
+ 
+Year Quarterly Sales in Sh.“million” 
+ Q1 Q2 Q3 Q4 
+2022 45 78 56 80 
+2023 44 67 43 86 
+2024 53 89 81 102 
+ 
+Required: 
+(i) The three-quarter moving average. (4 marks) 
+ 
+(ii) The seasonal index for each quarter assuming the multiplicative model. (6 marks) 
+ 
+(iii) Derive the deseasonalised sales using the multiplicative model. (2 marks) 
+ (Total: 20 marks) 
+ 
+QUESTION TWO 
+(a) Outline FOUR applications of set-theory in business. (4 marks) 
+ 
+(b) Find the area enclosed by the curve Y = 8X3 + 3X2 – 2X, the X axis and within the interval 2  X  4. (4 marks) 
+ 
+(c) In a certain college , 30% of the students failed in statistics and 15% failed in mathematics while 10% failed in 
+both statistics and mathematics in a given semester. 
+ 
+ 
+ 
+ 
+ 
+www.chopi.co.ke
+--- PAGE 11 ---
+Chopi.co.ke
+ CA15 & CF15 Page 2 
+  Out of 4 
+ 
+Required: 
+ If a student is selected randomly, determine the probability that: 
+ 
+(i) The student failed in statistics given that he failed in mathematics. (2 marks) 
+ 
+(ii) The student failed in statistics or mathematics. (2 marks) 
+ 
+(iii) The student failed in neither statistics nor mathematics. (2 marks) 
+ 
+(d) The amount of sales in million s of shillings for 92 companies in the construction industry was recorded as shown 
+below: 
+ 
+Sales (Sh.“million”) Number of companies 
+10 – 20 3 
+20 – 30 7 
+30 – 40 13 
+40 – 50 X 
+50 – 60 27 
+60 – 70 Y 
+70 – 80 8 
+ 
+Required: 
+(i) Determine the value of X given that the median sales for the companies is Sh.51.4815 million.  (4 marks) 
+ 
+(ii) Determine the value of Y given that the modal sales for the companies is Sh.5 4 million. (2 marks) 
+ (Total: 20 marks) 
+ 
+QUESTION THREE 
+(a) Highlight FOUR characteristics of arithmetic mean. (4 marks) 
+ 
+(b) The probability of making a type I error on a certain  washing machine is 0.10. The probability that the machine 
+will remove all stains on a garment when there is a type I error is 0.30 and the probability that the machine will 
+remove all stains on the garment when there is no type I error is 0.80. 
+ 
+Required: 
+Find the probability of type I error assuming that the machine fails to remove the stains. (6 marks) 
+ 
+(c) A national healthcare agency conducted a study to investigate the relationship between the number of patients at 
+the Nairobi region hospital compared to th e total cost of healthcare during a period of 10 months. In the year 
+2024, the following data were obtained: 
+ 
+Month Number of patients Total cost (Sh.“000”) 
+January 170 150 
+February 150 165 
+March 220 225 
+April 265 220 
+May 160 150 
+June 120 115 
+July 100 95 
+August 165 160 
+September 150 90 
+October 110 105 
+ 
+Required: 
+(i) The Pearson’s coefficient of correlation between the number of patients attended and the total cost of 
+healthcare. Interpret the results. (8 marks) 
+ 
+(ii) The coefficient of determination. Interpret the result. (2 marks) 
+ (Total: 20 marks) 
+ 
+ 
+ 
+ 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 12 ---
+ CA15 & CF15 Page 3 
+  Out of 4 
+ 
+QUESTION FOUR 
+(a) The use of internet has become a major component of a student’s day. A research study classified use of internet 
+into 3 categories for students: No use, light use and heavy use. The study observed 1 ,000 students over a period of 
+one month and developed the following transition matrix of probabilities from day to day: 
+ 
+  No use Light use Heavy use 
+ No use  0.35 0.15 0.50 
+Previous day Light use 0.30 0.35 0.35 
+ Heavy use 0.15 0.30 0.55 
+ 
+ Required: 
+Suppose that the initial distribution for the three categories is (0.20, 0.40, 0.40), find the distribution after:  
+ 
+(i) 1 day. (2 marks) 
+ 
+(ii) 2 days. (2 marks) 
+ 
+(iii) At steady state. (6 marks) 
+ 
+(b) The data below shows the number of students enrolled in six universities for  a business course before and after the 
+course was advertised in a local newspaper: 
+ 
+University Number of students 
+before advertisement 
+Number of students 
+after advertisement  
+A 170 180 
+B 145 151 
+C 150 143 
+D 170 177 
+E 172 178 
+F 164 167 
+ 
+Required: 
+ Using the paired t -test, determine whether the advertisement was a success at a 1% level of significance.                             
+  (10 marks) 
+   (Total: 20 marks) 
+ 
+QUESTION FIVE 
+(a) Explain the following terms as used in the input-output analysis: 
+ 
+(i) Primary inputs. (2 marks) 
+ 
+(ii) Technical coefficients. (2 marks) 
+ 
+(iii) Final demand. (2 marks) 
+ 
+(b) A milk production farm intends to undertake a research on a new type of feed which would increase the cow’s 
+productivity. The monthly revenue in thousand shillings would be represented by R = -5X2 + 9X where X is the 
+monthly milk produced and sold in thousand units.  
+Past records of cow’s production in the farm estimates its marginal costs in thousand shillings  could be 
+represented by the function MC = 2X – 2. 
+The fixed costs will be Sh.2,000 per month. 
+ 
+Required: 
+(i) The total cost function of the farm. (2 marks) 
+ 
+(ii) The profit function of the farm. (2 marks) 
+ 
+(iii) The break-even output of the farm. (4 marks) 
+ 
+(iv) The profit maximising output of the farm. (3 marks) 
+ 
+(v) The price that should be charged in order to maximise profit. (3 marks) 
+ (Total: 20 marks) 
+ 
+www.chopi.co.ke
+--- PAGE 13 ---
+Chopi.co.ke
+ CA15 & CF15 Page 4 
+  Out of 4 
+ 
+QUESTION SIX 
+(a) Explain THREE uses of time series analysis in business decision making. (6 marks) 
+ 
+(b) Jumbo Ltd. has to make a decision on whether to invest in project A, B or C. The economic condit ions could be 
+favourable, moderate or unfavourable.  
+ 
+The table below shows the potential payoffs in thousands of shillings (Sh.“000”) depending on the market 
+conditions and their associated probabilities: 
+ 
+ Economic conditions 
+Project Favourable Moderate Unfavourable 
+A 7,300 5,600 4,100 
+B 15,100 6,700 0 
+C 9,500 6,000 2,500 
+Probability 0.20 0.30 0.50 
+ 
+Required: 
+Advise the management of Jumbo Ltd. of the most optimal decision using: 
+ 
+(i) Maximax criterion. (3 marks) 
+ 
+(ii) Maximin criterion. (3 marks) 
+ 
+(iii) Laplace criterion. (4 marks) 
+ 
+(iv) Expected monetary value (EMV) criterion. (4 marks) 
+ (Total: 20 marks) 
+ 
+QUESTION SEVEN 
+(a) Jojox Steel Limited manufactures black and white sheets of steel. A black sheet requires 12 minutes for moulding, 
+24 minutes for galvanizing, 18 minutes for rolling and 27 minutes for packaging. A white sheet requires 8 minutes 
+for moulding, 6 minutes for galvanizing, 12 minutes for rolling an d 60 minutes for packaging. The firm’s 
+management monitors the production process times as it has a maximum of 126 hours for moulding, 120 hours for 
+galvanizing, 142 hours for rolling and 540 hours for packaging. The selling price per sheet is Sh.4,000 for the 
+black sheet and Sh.3,300 for the white sheet. 
+ 
+Required: 
+(i) Formulate the linear programming model to represent the above information. (5 marks) 
+ 
+(ii) Using the graphical method, solve the linear programming model formulated in (a) (i) above. (5 marks) 
+ 
+(b) The wages paid to workers of Baraka Ltd. are assumed to be normally distributed with a mean of Sh.37,000 and a 
+standard deviation of 1,400. 
+ 
+Required: 
+Calculate the probability that an employee chosen at random earns salary of: 
+ 
+(i) More than Sh.39,000. (3 marks) 
+ 
+(ii) Less than Sh.33,500. (3 marks) 
+ 
+(iii) Between Sh.34,000 and Sh.40,000. (4 marks) 
+ (Total: 20 marks) 
+............................................................................................................. 
+ 
+ 
+ 
+  
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 14 ---
+   CA15 & CF15 Page 1 
+  Out of 4 
+ 
+ 
+ 
+CPA FOUNDATION LEVEL 
+ 
+CIFA FOUNDATION LEVEL 
+ 
+QUANTITATIVE ANALYSIS 
+ 
+THURSDAY: 24 April 2025.  Morning Paper.             Time Allowed: 3 hours. 
+ 
+This paper consists of seven (7) questions. Answer any FIVE questions. ALL questions carry equal marks. Show ALL 
+your workings. Do NOT write anything on this paper.  
+ 
+QUESTION ONE 
+(a) Discuss THREE emerging issues in quantitative analysis that have significantly impacted decision making in 
+modern industries. (6 marks)   
+ 
+(b) A company sells a product and market research shows that the demand function for the product is linear.  The price 
+and quantity combinations observed in the market are as follows: 
+ 
+When price (P) is Sh.50, the quantity demanded (Q) is 200 units. 
+When price (P) is Sh.30, the quantity demanded (Q) is 400 units. 
+ 
+The total cost function (C) is given by C(Q) = 5,000 + 10Q + 0.05Q 2  
+ 
+Required: 
+(i) Determine the linear demand function. (4 marks) 
+ 
+(ii) Find the total revenue function. (2 marks) 
+ 
+(iii) Find the profit function. (2 marks) 
+ 
+(iv) Determine the quantity that maximises profit. (2 marks) 
+ 
+(v) Determine the break-even point. (4 marks) 
+                                                                                               (Total: 20 marks) 
+ 
+QUESTION TWO 
+(a) Explain the following terms as used in probability theory: 
+ 
+(i) Conditional probability. (2 marks) 
+ 
+(ii) Bayes theorem. (2 marks) 
+ 
+(b) A company collected data on monthly sales (in units) of a particular product over the past 100 months.  The data 
+was grouped into eight classes as shown below but two frequency values (F 3 and F6) are missing.  The mean sale is 
+given as 48.3 units. 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Sales range (units) Frequency 
+10 – 20 8 
+20 – 30 12 
+30 – 40 F3 
+40 – 50 20 
+50 – 60 18 
+60 – 70 F6 
+70 – 80 10 
+80 – 90        7 
+Total   100 
+www.chopi.co.ke
+--- PAGE 15 ---
+Chopi.co.ke
+   CA15 & CF15 Page 2 
+  Out of 4 
+ Required: 
+(i) Solve for F3 and F6 using the given mean. (4 marks) 
+ 
+(ii) Compute the median sales. (2 marks) 
+ 
+(iii) Determine the first quartile value (Q1). (3 marks) 
+ 
+(iv) Determine the third quartile value (Q3). (3 marks) 
+ 
+(v) Determine the quartile deviation. (2 marks) 
+ 
+(vi) Determine the quartile coefficient of skewness. (2 marks) 
+   (Total: 20 marks) 
+ 
+QUESTION THREE 
+A company tracked its quarterly sales (in millions) over the past 3 years as shown in the table below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Required: 
+(a) Obtain a 4-quarter centred moving average for the data.   (4 marks) 
+ 
+(b) Determine the typical seasonal indices for each quarter using the multiplicative model.  (4 marks) 
+ 
+(c) Determine the deseasonalised sales for each quarter. (4 marks) 
+ 
+(d) Fit a trend equation to the deseasonalised data using the ordinary least squares (OLS ) method. (4 marks) 
+ 
+(e) Forecast the seasonally adjusted sales for each quarter of the coming year using the trend equation in (d)  above.                                                                                                                                                                                                                  
+  (4 marks) 
+          (Total: 20 marks) 
+ 
+QUESTION FOUR 
+(a) Outline the SIX steps involved in conducting a hypothesis test. (6 marks) 
+ 
+(b) AutoTech Solutions Ltd.  is analysing the relationship between total maintenance cost (Y) and two predictor 
+variables: Service hours (X1) and number of replacement parts used (X2). 
+ 
+Regression output from Ms Excel is as follows: 
+ 
+              Regression statistics: 
+Parameter      Output 
+Multiple R                            0.981542 
+R square                         A? 
+Adjusted R square   0.955684 
+Standard error 24.137620 
+Observations              10 
+ 
+ANOVA Table: 
+ 
+Source d.f SS       MS F Significance 
+Regression 2 254,600.40 C = ? D = ? 0.000089 
+Residual  7 B = ? 3,456.21   
+Total 9 263,000    
+ 
+ 
+ 
+ 
+ Quarter 
+Year  Q1 Q2 Q3 Q4 
+1 50 65 80 70 
+2 55 70 85 75 
+3 60 75 90 80 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 16 ---
+   CA15 & CF15 Page 3 
+  Out of 4 
+Regression coefficients: 
+ 
+Variable Coefficient    Standard    
+error 
+t-statics P value Lower 
+95% 
+Upper 
+95% 
+Intercept 480.32 30.1175 E = ? 0.000012 410.28 550.36 
+Service hours (X1) F = ? 4.9162 5.847 0.000095 22.32 35.18 
+Replacement parts (X2) 15.60 3.2453 4.808 0.000231 10.32 20.88 
+ 
+Required: 
+(i) Determine the missing values A, B, C, D, E and F in the regression output.  (6 marks) 
+ 
+(ii) Develop a regression equation showing the relationship between total maintenance cost and two predictor 
+variables.  (2 marks) 
+ 
+(iii) Determine the coefficient of determination.  Interpret your results. (2 marks) 
+ 
+(iv) Test the adequacy of the model for prediction (F table value = 4.74). (2 marks) 
+ 
+(v) Explain whether service hours are adequate as predictor variable (t critical value = 2.365). (2 marks) 
+   (Total: 20 marks) 
+  
+QUESTION FIVE 
+(a) Highlight SIX qualities of a good measure of central tendency. (6 marks) 
+ 
+(b) Pegra Ltd. is considering launching a new electric product. However, demand for the proposed product is uncertain 
+and the company can either launch the new product immediately or conduct market research before making a 
+decision which could return either a favourable or unfavourable outcome.  If the research outcome is favourable, 
+Pegra Ltd. can proceed with launch.  If the research outcome is unfavourable, the company has the option to abandon 
+the launch. 
+ 
+Probabilities and payoffs: 
+ 
+Option 1: Launch immediately: 
+• Probability of high demand will be 60% with a projected profit of Sh.500,000 
+• Probability of low demand will be 40% with a projected loss of Sh.200,000 
+ 
+Option 2: Conduct market research at a cost of Sh.50,000 
+• Probability of favourable research outcome is 70% 
+• Probability of unfavourable research outcome is 30% 
+ 
+If research outcome is favourable: 
+• Probability of high demand will be 80% with a projected profit of Sh.500,000 
+• Probability of low demand will be 20% with a projected loss of Sh.200,000 
+ 
+If research outcome is unfavourable: 
+ 
+• The company can choose to abandon the launch incurring only the Sh.50,000 research cost.  
+ 
+ Required: 
+(i) Construct a decision tree based on the given probabilities and outcomes. (8 marks) 
+ 
+(ii) Compute the expected monetary value (EMV) for each option. (4 marks) 
+ 
+(iii) Recommend the best investment decision for the company. (2 marks) 
+     (Total: 20 marks) 
+ 
+ 
+ 
+ 
+ 
+  
+www.chopi.co.ke
+--- PAGE 17 ---
+Chopi.co.ke
+   CA15 & CF15 Page 4 
+  Out of 4 
+QUESTION SIX 
+(a) Explain the meaning of the following terms as used in set theory: 
+ 
+(i) Universal set. (2 marks) 
+ 
+(ii) Subset. (2 marks) 
+ 
+(iii) Set union. (2 marks) 
+ 
+(b) A simple economy consists of two sectors; Wool production and Hides tanning.  Each unit of output from Wool 
+production requires 0.6 units worth of input from Wool production and 0.3 units worth of input from Hides tanning.  
+A unit of output from Hides tanning requires 0.2 units worth of input from Wool production and 0.5 units worth of 
+input from Hides tanning.  The final demand for the period is estimated to be 800 units for Wool production and 220 
+units for Hides tanning. 
+ 
+Required: 
+(i) Determine the total output required for each sector to satisfy both intermediate and final demand.  (8 marks) 
+ 
+(ii) Account for the usage of Wool production output. (3 marks) 
+ 
+(iii) Account for the sources of input for Hides tanning. (3 marks) 
+        (Total: 20 marks) 
+ 
+QUESTION SEVEN 
+(a) Explain the following terms as used in hypothesis testing: 
+ 
+(i) Type I error. (2 marks) 
+ 
+(ii) Type II error. (2 marks) 
+ 
+(iii) Rejection region. (2 marks) 
+ 
+(b) A company owns two flour mills; A and B which have different production capabilities for high, medium and          
+low grade flour.  The company has entered into a contract to supply flour to a firm every week with 120, 80 and 240 
+kilograms of high, medium and low grades flour respectively.  It costs the company Sh.10,000 and Sh.8,000 per day 
+to run Mill A and Mill B respectively.  On a daily basis, Mill A produces 60, 20 and 40 kilograms of high, medium 
+and low grade flour respectively while Mill B produces 20, 20 and 120 kilograms of high, medium and low grade 
+flour respectively.  
+ 
+Required: 
+(i) Formulate the above problem as a linear  programming problem in order to minimise the total cost of 
+operation. (6 marks) 
+ 
+(ii) Graphically determine the number of days per week that each mill should operate to minimise the total cost 
+of operation. (8 marks)  
+                                                                                                                                                          (Total: 20 marks) 
+   
+ 
+  
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 18 ---
+ CA15 & CF15 Page 1 
+  Out of 4 
+ 
+ 
+ 
+ 
+ 
+CPA FOUNDATION LEVEL 
+ 
+CIFA FOUNDATION LEVEL 
+ 
+QUANTITATIVE ANALYSIS 
+ 
+WEDNESDAY: 4 December 2024. Morning Paper.  Time Allowed: 3 hours. 
+ 
+This paper consists of seven (7) questions. Answer any FIVE questions. ALL questions carry equal marks.  Show 
+ALL your workings. Do NOT write anything on this paper.  
+ 
+QUESTION ONE 
+(a) Explain TWO applications of calculus in business management. (4 marks) 
+ 
+(b) Consider a company manufacturing a product with the following functions: 
+ 
+Marginal revenue (Sh.“000”) = 50 - 4q 
+Average costs (Sh.“000”)  = 5 - 16/q 
+  
+Required: 
+(i) Formulate the profit function.    (4 marks) 
+ 
+(ii) Determine the quantity to be produced in order to maximise profit. (3 marks) 
+ 
+(iii) Calculate the maximum profit.    (3 marks) 
+ 
+(c) The 2 x 2 matrices; A, X and B are given as follows: 
+ 
+ A  =  10 4 ; X = a b ; B = 18 14 
+    4           2   c d   8 10 
+  
+Required: 
+ Given that AX = B, find the values of a, b, c and d. (6 marks) 
+    (Total: 20 marks) 
+ 
+QUESTION TWO 
+(a) Outline FOUR characteristics of a poisson probability distribution.  (4 marks) 
+ 
+(b) In relation to probability theory, distinguish between “subjective approach to probability ” and “classical approach 
+to probability”.      (4 marks) 
+ 
+(c) A manufacturing company is evaluating the preferences of 250 customers regarding three n ew products; product 
+Exe, product Wye and product Zed.  The following information was gathered from a sample survey: 
+ 
+• 35  c ustomers prefer both product Exe and product Wye. 
+• 120 customers prefer either product Exe or product Wye but not product Zed. 
+• 50 c ustomers prefer product Wye but not product Zed or product Exe. 
+• 140 cust omers prefer either product Wye or product Zed but not product Exe. 
+• 70 c ustomers prefer either product Zed but not product Exe or product Wye. 
+• 20 c ustomers prefer both product Exe and product Zed but not product Wye. 
+• 45  c ustomers prefer product Exe but not product Wye or product Zed.  
+ 
+ 
+www.chopi.co.ke
+--- PAGE 19 ---
+ CA15 & CF15 Page 2 
+  Out of 4 
+ 
+ 
+Required: 
+(i) Visualise the customers’ preferences using a Venn diagram. (6 marks) 
+ 
+(ii) Determine t he probability that a customer selected at random expressed a preference for all the three 
+products.     (2 marks) 
+ 
+(iii) Determine the probability that a customer selected at random expressed a preference for at most two of 
+the three products.    (2 marks) 
+ 
+(iv) Determine the probability that a customer selected at random did not prefer  any of the three products.               
+    (2 marks) 
+    (Total: 20 marks) 
+ 
+QUESTION THREE 
+(a) Explain THREE methods of estimating the trend line in time series analysis. (6 marks) 
+ 
+(b) The manager of Glaze Ltd. has selected a random sample of 150 invoices from  the company’s o utstanding 
+invoices and provides the following distribution: 
+ 
+Sales 
+Sh.“000” 
+Probability of 
+outstanding invoice 
+0  –    100 0.20 
+100  –  200 0.18 
+200  –  300 0.22 
+300     –   400 0.16 
+400     –   500 0.09 
+500  –  600 0.08 
+600  –  700 0.04 
+700 – 800 0.03 
+ 
+Required: 
+(i) Calculate the expected mean of the random sample.  (4 marks) 
+ 
+(ii) Calculate the expected standard deviation of the random sample. (4 marks) 
+ 
+(iii) Calculate the coefficient of variation of the random sample. (2 marks) 
+ 
+(iv) Determine the 95% confidence interval of the mean value of the outstanding invoices. (4 marks) 
+    (Total: 20 marks) 
+ 
+QUESTION FOUR 
+(a) Enumerate FOUR assumptions of linear programming model.    (4 marks) 
+ 
+(b) Faida Ltd. is in the process of reviewing the selling price for product “Excel”. 
+The selling prices under consideration are Sh.50, Sh.55 and Sh.60. 
+The following additional information is provided about the forecasted demand for product “Excel” under three 
+different market conditions: 
+  Market condition (Demand in Units) 
+Selling price Good  Moderate  Bad 
+Sh.50  20,000 18,000 14,000 
+Sh.55  18,000 16,500 12,000 
+Sh.60  16,000 14,000 8,500 
+      
+The fixed costs are estimated at Sh.300,000 and variable cost per unit is Sh.30.  
+ 
+Required: 
+(i) Construct the pay-off trade for product “Excel”.    (6 marks) 
+ 
+(ii) Advise Faida Ltd. on the best selling price for product “Excel” based on maximax criterion.  (2 marks) 
+ 
+(iii) Advise Faida Ltd. on the best selling price for product “Excel” based on maximin criterion. (2 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 20 ---
+ CA15 & CF15 Page 3 
+  Out of 4 
+ 
+ 
+(iv) Determine the best selling price for product “Excel” based on expected monetary value (EMV) criterion 
+given that probability for good, moderate and bad market criterion is 0.30, 0.50 and 0.20 respectively.                  
+         (3 marks)  
+  
+(v) Determine the expected value of perfect information.    (3 marks)  
+         (Total: 20 marks) 
+ 
+QUESTION FIVE 
+(a) Describe FOUR applications of linear functions in business.    (4 marks) 
+ 
+(b) A research assistant wishes to determine how the weight of 10 students  is related to their height.   He collects a 
+random sample of 10 students and measures both height in centimetres  (cm) and their weight in kilograms  (kg). 
+The results are shown in the table below: 
+ 
+Student Number Height (Cm)   Weight (Kg.) 
+ 1 149  49.2 
+ 2 150  49.4 
+ 3 147  46.7 
+ 4 147  47.4 
+ 5 142  41.6 
+ 6 138  35.5 
+ 7 151  51.4 
+ 8 148  47.4 
+ 9 144  36.7 
+ 10 140  36.4 
+ 
+Required: 
+(i) The product moment correlation coefficient.     (4 marks) 
+ 
+(ii) The ordinary least squares regression equation.    (4 marks) 
+ 
+(iii) Predict the weight of a student with a height of 152cm.   (3 marks) 
+ 
+(iv) The standard error of estimate.       (2 marks)
+   
+(v) Determine at 95% confidence interval , the predicted weight of a student with a height of 152cm.                       
+         (3 marks) 
+         (Total: 20 marks) 
+ 
+QUESTION SIX 
+(a) Using appropriate illustrations, explain the following terms as used in matrices:  
+ 
+(i) Diagonal matrix.         (2 marks) 
+ 
+(ii) Scalar matrix.         (2 marks) 
+ 
+(b) A factory produces two products ; product A and product B.  The company wants to determine how many units of 
+each product to produce in  order to maximi se profit.  The production of each product is subject to two resour ce 
+constraints; machine hours and labour hours. 
+ 
+The profit for each unit of product A is Sh.40 and Sh.30 for product B. 
+ 
+Each unit of product A requires  2 hours of machine time, while each unit of product B requires 1 hour of machine 
+time.  The company has a maximum of 100 machine hours available.   
+ 
+Each unit of product A requires 1 hour of labour and each unit of product B requires 2 hours of labour.  T he 
+company has a maximum of 80 labour hours available. 
+ 
+Required: 
+(i) Formulate the above problem as a linear programming problem. (4 marks) 
+ 
+(ii) Determine the optimal solution using the simplex method.  (12 marks) 
+         (Total: 20 marks) 
+www.chopi.co.ke
+--- PAGE 21 ---
+ CA15 & CF15 Page 4 
+  Out of 4 
+ 
+ 
+QUESTION SEVEN 
+(a) Tangles Limited is the sole producer of three hair products; kinky, fluffy and flat that currently have a market 
+share of 30%, 50% and 20% respectively. 
+ 
+Each month, some brand switching takes place as follows: 
+ 
+• Customers that bought kinky the previous month, 70%  buy it again while equal proportion switch to 
+fluffy and flat respectively. 
+• Customers that bought fluffy the previous month, 60% buy it again while 25% switch to kinky and 15% 
+to flat. 
+• Customers that bought flat the previous month, 70% remain while 10% switch to kinky and 20% to 
+fluffy. 
+ 
+Required: 
+(i) Construct a probability transition matrix of the switching probabilities. (3 marks) 
+ 
+(ii) Calculate the new market share a month after the current market share. (4 marks) 
+ 
+(iii) Calculate the steady state.       (7 marks) 
+ 
+(b) A company operates under two departments; production and marketing department.  Details relating to a sample of 
+employees working in the two departments has been provided as follows: 
+ 
+     Accounting Department   Marketing Department 
+ Number of employees    40     50 
+ Average monthly salary   Sh.120,000     Sh.130,000 
+ Standard deviation   Sh.10,000     Sh.12,000 
+ 
+ Required: 
+Determine whether there is any significant difference between the average salaries of employees working in the 
+two departments. 
+ 
+(Use a significance level of 5 percent).       (6 marks) 
+         (Total: 20 marks) 
+............................................................................................................. 
+ 
+ 
+ 
+  
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 22 ---
+ CA15 & CF15 Page 1 
+  Out of 4 
+ 
+ 
+ 
+ 
+ 
+CPA FOUNDATION LEVEL 
+ 
+CIFA FOUNDATION LEVEL 
+ 
+QUANTITATIVE ANALYSIS 
+ 
+WEDNESDAY: 21 August 2024. Morning Paper.  Time Allowed: 3 hours. 
+ 
+This paper has seven (7) questions. Answer any FIVE questions. ALL questions carry equal marks. Show ALL your 
+workings. Do NOT write anything on this paper.  
+ 
+QUESTION ONE 
+(a) State FOUR characteristics of the mean as a measure of central tendancy. (4 marks) 
+ 
+(b) Describe FOUR assumptions of linear regression model as used in statistics. (4 marks) 
+ 
+(c) The total revenue function of producing product “G” is quadratic in nature. The following data shows the number 
+of units of product G sold and the corresponding sales revenue in thousands of shillings:  
+ 
+Sales revenue (R) Sh.“000” 2,325 2,900 3,750 
+Number of units sold (Q) 15 20 30 
+ 
+Required: 
+(i) Formulate the total revenue function.   (6 marks) 
+ 
+(ii) Determine the maximum revenue of producing product “G”.  (4 marks) 
+ 
+(iii) Calculate the total revenue when the number of units sold is 80. (2 marks) 
+    (Total: 20 marks) 
+ 
+QUESTION TWO 
+(a) In a classroom with 15 students, 4 of whom are girls, the teacher randomly selects 4 students for a group project. 
+ 
+Required: 
+Determine the probability that the group of the students selected will be composed of the following:  
+ 
+(i) 3 girls and 1 boy.    (3 marks) 
+ 
+(ii) All boys.    (3 marks) 
+ 
+(iii) At least one girl.    (3 marks) 
+ 
+(b) The following frequency distribution table shows the amount of annual electricity bill obtained from a local utility 
+company’s annual report: 
+ 
+Electricity bill Sh. “000” Frequency 
+0  –  249 3 
+250  –  499 10 
+500  –  749 8 
+750  –  999 3 
+1,000  –  1,249 4 
+1,250  –  1,499 1 
+1,500  –  1,749 0 
+1,750 – 1,999 1  
+www.chopi.co.ke
+--- PAGE 23 ---
+Chopi.co.ke
+ CA15 & CF15 Page 2 
+  Out of 4 
+ 
+ 
+Required: 
+(i) Calculate the lower quartile and interpret your result.  (3 marks) 
+ 
+(ii) Determine the median value of the electricity bill.  (2 marks) 
+ 
+(iii) Compute the upper quartile value of the electricity bill.  (2 marks) 
+ 
+(iv) Determine the quartile coefficient of skewness and interpret your result.  (4 marks) 
+   (Total: 20 marks) 
+ 
+QUESTION THREE 
+(a) An economy produces food, clothing and shelter. To produce one unit of food , it requir es 0.6 units from food  
+sector, 0.2 units from clothing sector and 0.1 units from the shelter sector. To produce one unit of clothing , it 
+requires 0.1 units from the food sector, 0.4 units from clothing sector and 0.2 units from the shelter sector. To 
+produce one unit of shelter it requires 0.1 units from the food sector, 0.4 units from the clothing sector and 0.4 
+units from the shelter sector. 
+ 
+Required: 
+(i) Determine the matrix of technical coefficient (A).  (2 marks) 
+ 
+(ii) Compute the total output for food, clothi ng and shelter sectors to satisfy a final demand of 50 units of 
+food, 400 units of clothing and 400 units of shelter. 
+ 
+Assume that; 
+ 
+ 1  0.28 0.08 0.10 
+(I – A)–1 = 0.086 0.16 0.23 0.18 
+   0.10 0.09 0.22  (4 marks) 
+ 
+(iii) Account for the usage of clothing sector output determined in (a) (ii) above. (3 marks) 
+ 
+(b) Three judges rank 8 contestants in a talent show. The rankings assigned by each judge for all contestants are 
+displayed in the table below: 
+ 
+Contestant A B C D E F G H 
+Judge 1 Rankings 1 2 3 4 5 6 7 8 
+Judge 2 Rankings 2 1 3 4 6 5 7 8 
+Judge 3 Rankings 1 3 2 5 4 6 7 8 
+ 
+Required: 
+(i) Using the Spearman’s rank correlation coefficient, determine the pair of judges that indicated the highest 
+agreement in their rankings.       (9 marks) 
+ 
+(ii) Describe TWO scenarios where on e might prefer to use Spearman’s rank correlation instead of other 
+correlation models.        (2 marks) 
+           (Total: 20 marks) 
+ 
+QUESTION FOUR 
+(a) The disease monitoring centre has established that the annual number of pandemic occurrence follows a Poisso n 
+distribution with a mean of 0.30 per annum. 
+ 
+Required: 
+(i) The probability that no pandemic will occur within a year.  (3 marks) 
+ 
+(ii) The probability that at most two pandemics will occur within a year. (3 marks) 
+ 
+(b) Bobino Electricals Limited manufactures electric kettle and electric cookers. 
+ 
+Each electric kettle is sold at Sh.1,950 and each electric cooker is sold at Sh.2,400.  
+ 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 24 ---
+ CA15 & CF15 Page 3 
+  Out of 4 
+ 
+ 
+An electric kettle requires 3 kilograms of steel while an electronic cooker requires 5 kilograms of steel. Steel costs 
+Sh.200 per kilogramme. It costs the company Sh.120 per hour to assemble each of the products.  
+It takes 5 hours to assemble an electric kettle and 7 hours to assemble an electronic cooker.  
+ 
+There are 1,500 kilograms of steel available and a total of 2,450 hours available for assembling. 
+ 
+Required: 
+(i) Formulate the linear programming equations necessary to solve the above problem.  (6 marks) 
+ 
+(ii) Solve the linear programming equations formulated in (b) (i) above graphically. (8 marks) 
+         (Total: 20 marks) 
+ 
+QUESTION FIVE 
+(a) Describe TWO laws of probability.       (4 marks) 
+ 
+(b) A company is contemplating an investment in either of the two machines; Machine A or Machine B to enhance its 
+production capabilities. The decision requires assessing the costs and potential returns of each machin e under 
+varying market conditions. 
+ 
+The following information relates to the two machines: 
+ 
+Machine A 
+ Cost: Sh.100,000,000. 
+ Potential returns: Sh.250,000,000, if market demand is high and Sh.60,000,000 if market demand is low. 
+ Probability of high market demand is 0.70. 
+ Probability of low market demand is 0.30. 
+ 
+ Machine B 
+ Cost: Sh.150,000,000. 
+ Potential returns: Sh.320,000,000 if market demand is high and Sh.80,000,000 if market demand is low. 
+ Probability of high market demand is 0.50. 
+ Probability of low market demand is 0.50. 
+ 
+ Additionally, the company can choose to conduct a survey at a cost of Sh.20,000,000 to obtain more information 
+before making the investment decision. The survey can indicate either favourable or unfavourable results with 
+probabilities of 0.80 and 0.20 respectively, influencing the probabilities of market conditions.  
+ 
+ If survey is favourable for both Machine A and Machine B: 
+ Probability of high market demand is 0.90. 
+ Probability of low market demand is 0.10. 
+ 
+ If survey is unfavourable for both Machine A and Machine B: 
+ Probability of high market demand is 0.20. 
+ Probability of low market demand is 0.80. 
+ 
+ The potential returns of Machine A and Machine B remain unchanged regardless of the survey outcome.  
+ 
+ Required: 
+(i) Draw the decision tree for the above scenario.    (10 marks) 
+ 
+(ii) Advise the management of the company on the best decision using the Expected Monetary Value (EMV) 
+approach.         (4 marks) 
+ 
+(iii) Determine the Expected Monetary Value from the decision made in (b) (ii) above.  (2 marks) 
+         (Total: 20 marks)  
+ 
+QUESTION SIX 
+(a) A random variable is normally distributed with a mean of 25 and a standard deviation of 5.  
+ 
+Required: 
+Using normal distribution approach: 
+ 
+(i) Calculate the value that will be exceeded 10% of the time assuming an obs ervation is randomly selected 
+from the distribution.        (2 marks) 
+www.chopi.co.ke
+--- PAGE 25 ---
+Chopi.co.ke
+ CA15 & CF15 Page 4 
+  Out of 4 
+ 
+ 
+(ii) Compute the value that will be exceeded 85 % of the time assuming an observation is randomly selected 
+from the distribution.        (2 marks) 
+ 
+(iii) Determine the two values of which the smalle r value has 25% of the values below it and the larger value 
+has 25% of the values above it.       (2 marks) 
+ 
+(iv) Determine the value in which 15% of the observations will be below the distribution.  (2 marks) 
+       
+(b) A manufacturer claims that their packaging ma chine could fill a packet of sugar  with an average weight of 600 
+grams. 
+ 
+A sample of 36 packets of sugar has an average weight of 500 grams with a standard deviation of 25 grams. 
+ 
+Required: 
+Test at a 5% significance level if there is sufficient evidence to reject the manufacturers claim.  (6 marks) 
+ 
+(c) (i)  Find the value of the following integral: 
+ ∫(4x3 + 2x + 5)   dx for an interval between x = 1 and x = 3 (4 marks) 
+ 
+(ii) A function of a curve is given as:  
+  Y = 3x2 – 12x + 64 
+ 
+ Find the integral equation of the function.     (2 marks) 
+          (Total: 20 marks) 
+ 
+QUESTION SEVEN 
+(a) The data below represents the sales made by Yatta Traders for a period of three years: 
+ 
+ Sales (Sh.“million”) 
+ Quarters 
+Year 1 2 3 4 
+2021 4.4 10 15.8 6.4 
+2022 5.8 10.4 16.4 7.6 
+2023 6.4 11.6 18.2 8.2 
+ 
+Required: 
+(i) The 4-centered moving average trend values.  (4 marks) 
+ 
+(ii) The seasonally adjusted additive indices.  (6 marks) 
+ 
+(b) Highlight SIX assumptions of Markov analysis.     (6 marks) 
+ 
+(c) Differentiate between “an interval estimate” and “a point estimate”.  (4 marks) 
+          (Total: 20 marks) 
+         
+............................................................................................................. 
+ 
+ 
+ 
+  
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 26 ---
+CA15 & CF15 Page 1 
+O
+ut of 5 
+CPA FOUNDATION LEVEL 
+CIFA FOUNDATIO
+N LEVEL 
+QUANTITATIVE ANA
+LYSIS 
+WEDNESDAY: 24 April 202
+4. Morning Paper.  Time Allowed: 3 hours. 
+This paper has se
+ven (7) questions. Answer any FIVE questions. ALL questions carry equal marks. Show ALL your 
+workings. Do NOT write anything on this paper.  
+QUESTION ONE 
+(a) Sta
+te FIVE characteristics of binomial distribution. (5 marks) 
+(b) Isabella Koech, a businesswoman, is contemplating investing in one of two manufacturing companies namely;
+company A and company B . The data below shows the profits made by company A and company B over the past
+150 days.
+Daily profits Number of days 
+Sh.“000” Company A Company B 
+50 – 60 12 11 
+60 – 70 26 14 
+70 – 80 38 20 
+80 – 90 36 23 
+90 – 100 18 45 
+100 – 110 11 23 
+110 – 120 9 14 
+Required: 
+(i) Calcul
+ate the standard deviation for company A and company B. (6 marks) 
+(ii) Calculate the coefficient of variation for company A and company B. (2 marks) 
+(iii) Advise Isabella Koech on the company to invest in based on the results obtained in (b) (i) and (b) (ii)
+above.  (2 marks)
+(c) Given the fol
+lowing sets:
+A = {a, b, c, d} 
+B = {
+c, d, e, f, g} 
+C = {h, i, j, c, d} 
+Required: 
+Find: 
+(i) The universal s
+et “⋃”. (2 marks) 
+(ii) A⋂B⋂C. (2 marks) 
+(iii) C'. (1 mark)
+(Total: 20 mark s) 
+www.chopi.co.ke
+--- PAGE 27 ---
+Chopi.co.ke
+ CA15 & CF15 Page 2 
+  Out of 5 
+ 
+ 
+QUESTION TWO 
+(a) TOC Limited, an oil proces sing company purchased a machine that they intend to use in one of their  production 
+processes. The machine is expected to have a useful life of 10 years after which it can be disposed for Sh.200,000. 
+The net book value of the machine after 8 years is estimated to be Sh.560,000. 
+ 
+Required: 
+(i) The linear depreciation equation for the value of the machine. (4 marks) 
+(ii) Determine the value of the machine after 6 years. (2 marks) 
+(iii) Determine the number of years when the value of the machine will be Sh.1,460,000.  (2 marks) 
+ 
+(b) A production manager is convinced that a new set of plant engineers will not affect the production level in the 
+factory. To test this  hypothesis, 15 samples of the first day output is taken and average production per day is 
+measured as 14,500 units with a standard deviation of 102. Before the new plant engineers  were engaged, the 
+average output per day was 14,650 units. 
+ 
+Required: 
+Test the manager’s conviction at 5% level of significance. (8 marks) 
+ 
+(c) Highlight FOUR considerations in determining whether to employ a census or a sample in collecting primary data.
+   (4 marks) 
+   (Total: 20 marks) 
+ 
+ 
+QUESTION THREE 
+(a) Clekex Cleaning Limited manufactures bar soaps for a hotel industry. The company specialises in three different 
+types of bar soaps weighing 0.5kg, 0 .75kg and 1kg respectively. The three types of bar  soaps are made by two 
+machines, machine A and machine B. The number of hours required for each type of bar  soap in each machine is 
+shown below: 
+   
+Type of bar soap  Time taken for bar soap production (hours) 
+ Machine A Machine B 
+0.5 0.40 0.25 
+0.75 0.60 0.12 
+1 0.50                     0.60 
+ 
+ Machine A has 2,800 hours available while machine B has 1,090 hours available. The management has decided 
+that 1,000 bar soaps of 0.5kg must be produced. 
+ 
+ Required: 
+ The number of 0.75kg  bar soaps and 1kg bar  soaps that will be produced assuming machine A and B hours are 
+fully utilised. (6 marks) 
+(b) The following table shows the total cost per day on production  of iron sheets  for the last 10 days in a 
+manufacturing company: 
+ 
+  Day Number of iron sheets produced Total cost Sh.“000” 
+1 31 35 
+2 29 33 
+3 35 35 
+4 29 36 
+5 38 40 
+6 28 34 
+7 32 35 
+8 34 37 
+9 26 32 
+10 25 25 
+ 
+Required: 
+(i) Determine the total cost function using the ordinary least squares method. (6 marks) 
+(ii) Determine the break -even number of iron sheets produced assuming that  each iron sheet is sold at 
+Sh.2,200 each. (3 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 28 ---
+ CA15 & CF15 Page 3 
+  Out of 5 
+ 
+ 
+(iii) The coefficient of determination of the data. (4 marks) 
+(iv) Interpret the result in (c) (iii) above. (1 mark) 
+   (Total: 20 marks) 
+ 
+ 
+QUESTION FOUR 
+(a) Differentiate between the “multiplicative model” and “additive model” as used in time series.  (4 marks) 
+(b) A research company has established that the occurrence of a contagious disease follows a Poisson distribution with 
+a mean of 0.3 per week. 
+Required: 
+(i) The probability that no case of a contagious disease is reported. (3 marks) 
+(ii) The probability that almost one case of a contagious disease is reported. (3 marks) 
+(c) A solar panel production firm intends to research on a launch of a new solar panel which would  increase the sales 
+of the panels to between 2,000 units to 3,000 units per week. The weekly revenue in thousands of shillings over 
+the range of sales could be represented by: 
+R = – 3x
+2 + 7x  
+Where x is the weekly solar panel units produced and sold in thou sands. Past records of the solar panel production 
+in the firm estimates its marginal costs in thousands of shillings could be represented by the function;  
+MC = 2x2 – 3x + 5 
+The fixed costs will be Sh.1,000 per week. 
+Required: 
+(i) The average cost function of the firm. (2 marks) 
+(ii) The average revenue function of the firm. (1 mark) 
+(iii) The profit maximising output. (5 marks) 
+(iv) The price that should be charged to maximise profits. (2 marks) 
+     (Total: 20 marks) 
+ 
+QUESTION FIVE 
+(a) A car hire company has provided the data below showing the number of cars hired out for the last 10 months  
+ending 31 March 2024: 
+ 
+Month  Number of cars 
+June 2023 110 
+July 2023 115 
+August 2023 109 
+September 2023 108 
+October 2023 106 
+November 2023 111 
+December 2023 107 
+January 2024 112 
+February 2024 114 
+March 2024 110 
+ 
+Required: 
+(i) The forecast number of cars for the month of April 2024 using exponential smoothing method with a 
+smoothing constant α  = 0.3. (3 marks) 
+(ii) The three months moving average forecasts for the month of April 2024. (1 mark) 
+(iii) Using suitable computation, advise on the best forecast method. (6 marks) 
+ 
+www.chopi.co.ke
+--- PAGE 29 ---
+Chopi.co.ke
+ CA15 & CF15 Page 4 
+  Out of 5 
+ 
+ 
+(b) World K Tours has Sh.6 million that may be used to purchase new rental minibuses for hire during the coming 
+holidays. The minibuses may be purchased from two different manufacturers.  
+ 
+Important data concerning the minibuses is summarised below: 
+  
+Minibus type Manufacturer Cost Maximum seating 
+capacity 
+Expected daily profit 
+per minibus (Sh.) 
+Weaverbird Fastbus 80,000 11 10,000 
+Eaglet Fastbus 90,000 14 12,000 
+Dovey Smartbus 70,000   7 9,000 
+Crowlet Smartbus 140,000 18 16,000 
+ 
+ World K Tours wishes to purchase at least 80 minibuses and equal numbers from each of the manufacturer. World  
+K Tours wishes to have a total sitting capacity of at least 500. 
+  
+ Required: 
+(i) Formulate the above linear programming problem. (6 marks) 
+(ii) Outline FOUR assumptions of the linear programming technique. (4 marks) 
+ (Total: 20 marks) 
+ 
+QUESTION SIX 
+(a) A manager must select 4 employees for a job promotion. 12 employees are eligible for job promotion.  
+ 
+Required: 
+(i) Determine the number of ways in which 4 employees could be chosen.  (3 marks) 
+ 
+(ii) Determine the number of ways in which the 4 employees could  be chosen from the 12 employees in the 
+department. (3 marks) 
+ 
+(b) A property developer has Sh.1,000,000 to invest in a n ew property. The developer has a choice of three different 
+properties going at the same price in different towns; one in Nairobi, another in Nakuru and the other in Nanyuki. 
+With the three properties, his ultimate profit depends on whether the economy is strong, weak or mixed.  
+ 
+He estimates that the pay-off matrix representing his monthly profits in thousands of shillings is as follows:  
+ 
+  States of nature 
+  Weak Mixed Strong 
+ Nairobi 85 30 75 
+Strategies  Nakuru 45 45 110 
+ Nanyuki 60 95 85 
+     
+Required: 
+Determine the town that the developer should invest in using: 
+(i) Maxi-max criterion. (2 marks) 
+(ii) Maxi-min criterion. (2 marks) 
+(iii) Mini-max regret criterion. (4 marks) 
+(iv) Suppose the investor reads in the newspaper that there is 50% chance of a weak economy, 20% chance of 
+a mixed economy and a 30% chance of a strong economy.  
+Advise on the best strategy, given the new information. (2 marks) 
+(v) Compute the expected value of perfect information. (4 marks) 
+     (Total: 20 marks) 
+ 
+ 
+ 
+ 
+ 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 30 ---
+ CA15 & CF15 Page 5 
+  Out of 5 
+ 
+ 
+QUESTION SEVEN 
+(a) A training institution requires that all its employees participate in one of three sports clubs namely ; football, rugby 
+or chess. In e ach term, the training institution designates an open selection period within which employees may 
+change from one club to another. 
+ 
+Prior to the  last open selection period, 10% of the employees preferred football, 35% preferred rugby and the 
+remaining chess. During the open selection period, 25% of the employees taking football switched to rugby, while 
+15% switched to chess. 30% of the employees taking rugby switched to football and 10% switched to chess,                 
+20% of the employees taking chess switched to football and 10% switched to rugby.  
+ 
+Required: 
+(i) The transition matrix. (2 marks) 
+(ii) The percentage of employees that will be taking each sport after the last open selection period. (4 marks) 
+(iii) Assuming that the trend continues, determine the percentage of the employees who will be taking each 
+sport in the long-run. (6 marks) 
+ 
+(b) Agritech Consultants have engaged 3 farming trainees; Jim, Ken and L orn. After six months, the Consultancy 
+supervisor noted that 5%, 7% and 9% of land planted by Jim, Ken and Lorn respectively had  ungerminated plants. 
+The supervisor had distributed 40%, 25% and 35% of the land respectively. 
+ 
+Required: 
+(i) Present the above information in a tree diagram. (3 marks) 
+(ii) The probability of land with ungerminated plants. (2 marks) 
+(iii) The probability that land with ungerminated plants was planted by either Ken or Lorn.  (3 marks) 
+     (Total: 20 marks) 
+............................................................................................................. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.chopi.co.ke
+--- PAGE 31 ---
+Chopi.co.ke
+CPA FOUNDATION LEVEL 
+CIFA FOUNDATION LEVEL 
+QUANTITATIVE ANALYSIS 
+WEDNESDAY: 6 December 2023. Morning Paper.  Time Allowed: 3 hours. 
+This paper has seven (7) questions. Answer any FIVE questions. ALL questions carry equal marks.  Show ALL your 
+workings. Do NOT write anything on this paper.  
+QUESTION ONE 
+(a) Highlight FOUR disadvantages of the mode as a measure of central tendency. (4 marks) 
+(b) Find the area between the curve y = x + 2x
+ + 1 , the x axis and the lines x = 1 and x = 2. (4 marks) 
+ x2 
+(c) Safi Limited manufactures and sells two types of cleaning pads ; Osha and Oga. The demand functions for the two
+products are given by:
+P1 = 1,200 – 2x – 5y 
+P2 = 1,700 – 3x – 2y 
+Where P1 is the unit price of Osha in shillings. 
+P2 is the unit price of Oga in shillings. 
+x is the number of units sold of Osha. 
+y is the number of units sold of Oga. 
+The total cost of producing both products is given by the function TC = 230x + 90y.  
+Required: 
+(i) The number of units of each product required to maximise total profit. (10 marks) 
+(ii) The maximum total profit. (2 marks) 
+(
+Total: 20 marks) 
+QUESTION TWO 
+(a) List SEVEN steps of the deci
+sion making process. (7 marks) 
+(b) The following data shows the q
+uarterly sales of cars for Excellent Auto Enterprises for a period of three years:
+Year 
+Sales (Sh.“million”) 
+Quarter 1 Quarter 2 Quarter 3 Quarter 4 
+2020 
+2021 
+2022 
+25 
+33 
+41 
+20 
+28 
+37 
+18 
+26 
+34 
+30 
+38 
+46 
+Required: 
+(i) The 4-quarter centred moving a
+verage trend values. (4 marks) 
+(ii) The seasonal multiplicative ind
+ices. (5 marks) 
+(iii) The deseasonalised sales for each quar
+ter. (4 marks) 
+(Total: 20 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 32 ---
+QUESTION THREE 
+(a) Highlight FOUR applications of Markov chain analysis in business and finance. (4 marks) 
+(b) An insurance company has 2 claim asse
+ssors who must each give approval to customers who wish to lodge a claim
+for compensation. The manager currently has 8 such customers and has asked each assessor to independently rank
+the customer claims in order of merit. The rankings are shown below:
+Customer A B C D E F G H 
+Assessor 1 Ranking 4 6 2 1 5 8 6 3 
+Assessor 2 Ranking 4 8 1 3 7 4 6 2 
+Required: 
+Calculate the rank correlati
+on coefficient of the two sets of rankings and comment on the results. (8 marks) 
+(c) The Revenue Authority Research D
+epartment conducted a survey that revealed the number of companies that were
+reported as being tax compliant in the last six months of the year 2022 as recorded in the table below:
+Month July August September October Novem
+ber December 
+Number of Companies 326 290 306 260 355 365 
+Required: 
+Test the hypothesis that
+ the number of tax compliant companies does not depend on the month  of the year at a 1% 
+significance level.     (8 marks) 
+(Total: 20 marks) 
+QUESTION FOUR 
+(a) An economy is based on
+ 2 sectors ; Agriculture and Manufacturing. Production of a shilling worth of Agriculture
+requires an input of 0.3 from the Agriculture sector and 0.1 from the Manufacturing sector.
+Production of a shilling worth of
+ manufacturing requires an input of 0.2 from the Agriculture sector and 0.4 from
+the Manufacturing sector.
+Required:
+Find the output from eac
+h sector that is needed to satisfy a final demand of Sh. 12 billion for Agriculture and
+Sh.8 billion for Manufacturing.    (8 marks)
+(b) Consider the following data
+ for 120 students of a College concerning the languages they are studying namely;
+French, German and Russian.
+• 15 students study Russian and German.
+• 58 students study German or French but not Russian.
+• 28 students study French only.
+• 90 students study French or German.
+• 20 students study French and Russian.
+• 44 students study at least two of the three languages.
+• 20 students do not study any of the three languages.
+Required: 
+(i) Present the above inform
+ation in a Venn diagram. (6 marks) 
+(ii) Number of students who st
+udy all the three languages. (2 marks) 
+(iii) Proportion of students who study
+ French. (2 marks) 
+(iv) Number of students who study
+ at least one language. (2 marks) 
+(Total: 20 marks) 
+www.chopi.co.ke
+--- PAGE 33 ---
+Chopi.co.ke
+QUESTION FIVE 
+(a) Explain the terms “minimax criterion” and “maximax criterion” as used in decision analysis. (4 marks) 
+(b) Viwanda Ltd. produces light bu
+lbs that are packed into boxes of 100. The company’s quality control department
+indicates that 0.5% of the light bulbs produced are defective.
+Required:
+(i) The percentage of boxes that wi
+ll contain no defective light bulbs. (1 mark) 
+(ii) The percentage of boxes that will con
+tain two or more defective light bulbs. (3 marks) 
+(c) An accountant wishes to under
+take a cost analysis of the annual repair cost for a popular model of a machine as
+influenced by the age of the machine. The results obtained are shown below:
+Age (years) Repair cost (Sh.“000”) 
+1 70 
+3 140 
+5 230 
+8 350 
+7
+ 300 
+12 570 
+8 350 
+4 200 
+Required: 
+(i) Pearson’s coefficient 
+of correlation  between the age of the machine and the repair cost . Interpret your
+result. (4 marks) 
+(ii) Fit a least squares regression line o
+f repair cost on age of machine to the data. (4 marks) 
+(iii) Interpret the meaning of regres
+sion coefficients a and b in the least squares regression line obtained in (c)
+(ii) above. (2 marks) 
+(iv) The coefficient of determinatio
+n. Interpret your result. (2 marks) 
+(Total: 20 marks) 
+QUESTION SIX 
+(a) Explain FOUR limitations of
+ quantitative analysis. (4 marks) 
+(b) The amount of money spent on pur
+chases by the first 50 customers at a large department store is summarised in
+the following table:
+Amount spent (Sh.“000”) Number of customers 
+0 –
+ 5 3 
+5 – 10 6 
+10 – 15 7 
+15 – 20 11 
+20 – 25 15 
+25 – 30 8 
+Required: 
+Compute: 
+(i) The mean amount spent by the 50 cus
+tomers. (4 marks) 
+(ii) The standard deviation of the amoun
+t spent by the 50 customers. (4 marks) 
+(iii) The coefficient of variation of the
+ amount spent by the 50 customers. (2 marks) 
+(iv) The coefficient of Kurtosis a
+nd comment on your answer. (6 marks) 
+(Total: 20 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 34 ---
+QUESTION SEVEN 
+(a) Explain the following terms as used in statistics:
+(i) Sample statistic. (2 marks) 
+(ii) Population parameter. (2 marks) 
+(iii) Sampling distribution. (2 marks) 
+(b) A manufacturer of dresse
+s makes two types of dresses; Standard and Executive. Each Standard dress requires 10
+labour hours from the cutting department and 30 labour hours from the sewing department. Each Executive dress
+requires 20 labour hours from the cutting department and 40 labour hours from the sewing department. Th e
+maximum labour hours available in the cutting department and the sewing department are 320 and 540
+respectively. The company makes a profit of Sh.500 on each Standard dress and Sh.800 on each Executive dress.
+Required:
+(i) Formulate a mathematical
+ model for the above linear programming problem. (4 marks) 
+(ii) Using the simplex method , deter
+mine the number of Standard and Executive dresses that should be
+produced in order to maximise profit.  (10 marks)
+(Total: 20 marks)
+............................................................................................................. 
+www.chopi.co.ke
+--- PAGE 35 ---
+Chopi.co.ke
+CA15 & CF15 Page 1 
+Out of 4 
+CPA FOUNDATION LEVEL 
+CIFA FOUNDATION LEVEL 
+QUANTITATIVE ANALYSIS 
+WEDNESDAY: 23 August 2023. Morning Paper.  Ti
+me Allowed: 3 hours. 
+Answer any FIVE questions. ALL questions carry equal marks.  Show ALL your workings.  Do NOT write anything 
+on this paper.  
+QUESTION ONE 
+(a) Explain the meaning of the following terms as used in decision theory:
+(i) Decision alternative. (2 marks) 
+(ii) State of nature. (2 marks) 
+(iii) Conditional payoff. (2 marks) 
+(iv) Opportunity cost. (2 marks) 
+(b) The following data relates to the ages of 100 students attending a workshop on personal branding organised by the
+student welfare officials of Pride Business College:
+Age (in years) Number of students 
+Below 20 2 
+20 – 25  4 
+25 – 30 10 
+30 – 35 20 
+35 – 40 32 
+40 – 45 18 
+45 – 50 10 
+Above 50 4 
+Thereafter, 15% of the youngest students and 5% of the oldest students attending the workshop were selected to 
+attend a further training on curriculum vitae writing.  
+Required: 
+(i) Determine the youngest age of the students selected to attend the training on curr iculum vitae writing.
+(4 marks) 
+(ii) Determine the highest  age of the students selected to attend the training on curriculum vitae writing.
+(4 marks) 
+(iii) Calculate the median age of the students who remained after the selection o f students to attend the
+training on curriculum vitae writing. (4 marks)
+(Total: 20 marks)
+QUESTION TWO 
+(a) State FOUR applications of mathematical functions in business. (4 marks) 
+(b) Explain the following terms as used in set theory:
+(i) Disjoint set. (2 marks) 
+(ii) Complement of a set. (2 marks) 
+(iii) Union of a set. (2 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 36 ---
+CA15 & CF15 Page 2 
+Out of 4 
+(c) The follow
+ing regression equation was obtained for a class of 24 intermediate lev el students:
+ŷ  =  4.3 + 0.029X1 + 0.029X2 + 0.017X3 
+Standard error 0.0074    0.013 0.007 
+Where: 
+ŷ  = Students score on a t
+heory examination  
+X1 = Students rank (from the bottom) in high school 
+X2 = Students verbal aptitude score 
+X3 = A measure of student character 
+Required: 
+(i) Calculate the t ratio and the 95% confidence interval for the independent variables X1, X2 and X3.
+(6 marks) 
+(ii) Determine the regressor which gives the strongest evidence of being statistically discernible. (2 marks)
+(iii) In writing up a final regressi
+on, explain whether one should keep the last regressor (X3) in the equation or
+drop it.  (2 marks)
+(Total: 20 marks)
+QUESTION THREE 
+(a) State FOUR characteristics of the normal distribution. (4 marks) 
+(b) A firm manufactures two mo
+dels of bicycles ; mountain bike and BMX. The firm earns profit of Sh.5,000 and
+Sh.6,000 on mountain bikes and BMX respect ively. Both models are produced in three departments; assembl y,
+fitting and painting. The time required per model produced and the time available per week (in hours) are given in
+the table below:
+Departments              Required time    Ava
+ilable time 
+Mountain bike BMX 
+Assembly 2 3 180 
+Fitting 2 1 120 
+Painting 3 3 240 
+Required: 
+(i) Formulate the above problem as a linear programming problem in order to maximise profits.  (4 marks)
+(ii) Graphically show how the manufacturer should schedule his production to maximise profits. (8 marks)
+(iii) Compute and interpret the slack value for the painting department. (4 marks) 
+(Total: 20 marks) 
+QUESTION FOUR 
+(a) Explain the following terms as used in Markovian analysis:
+(i) Transition matrix. (2 marks) 
+(ii) Equilibrium state. (2 marks) 
+(iii) Initial probability vector. (2 marks) 
+(b) The following pay-off matrix was developed by a company showing profits (in shillings) obtained from launching
+four different products P1, P2, P3 and P4 under four different states of nature:
+State of nature 
+Product S1 S2 S3 S4 
+P1 5,000 9,000 7,000 8,000 
+P2 7,000 4,000 6,000 12,000 
+P3 10,000 8,000 9,000 7,000 
+P4 14,000 5,000 7,000 6,000 
+www.chopi.co.ke
+--- PAGE 37 ---
+Chopi.co.ke
+CA15 & CF15 Page 3 
+Out of 4 
+The probabilitie
+s for S1, S2, S3 and S4 are given as 0.30, 0.40, 0.20 and 0.10 respectively. 
+Required: 
+(i) Advise on the best course of
+ action using the Mini-Max Regret Criterion. (4 marks) 
+(ii) Advise on the best course of action
+ using the Expected Opportunity Loss Criterion. (4 marks) 
+(iii) An expert has offered to provid
+e perfect information at a cost of Sh.2,500.
+Advise the management of the comp
+any on whether or not to acquire the perfect information. (6 marks)
+(Total: 20 marks) 
+QUESTION FIVE 
+(a) The output of an acre of
+ land is assumed to be normally distributed with an average of 52 bags of maize and a
+standard deviation of 3.2 bags.
+Required:
+The probability that the o
+utput of an acre of land:
+(i) Is greater than 48 bags. (2 marks) 
+(ii) Is greater than 60 bags. (2 marks) 
+(iii) Is less than 45 bags. (2 marks) 
+(iv) Lies between 50 bags and 60 bags. (2 ma
+rks) 
+(b) BMM Limited produces X number of it
+ems of product “Wonder” in a month at a cost described by the equation
+C = 5x + 4,000. The Management Accountant of the firm estimates that at a selling price of Sh.22  per unit, 18,000
+units of “Wonder” could be sold.  If the firm increases the unit price to Sh.30, only 10,000 units of  “Wonder” can
+be sold.
+Required:
+(i) Determine the number of unit
+s of product “Wonder” that BMM Limited should produce and sell in order
+to maximise profit. (6 marks) 
+(ii) Determine the selling price per un
+it charged at the maximum profit. (2 marks) 
+(iii) Calculate the break-even number of units
+. (4 marks) 
+(Total: 20 marks) 
+QUESTION SIX 
+(a) Distinguish between a “t
+wo-tailed test” and a “one tailed test” as used in inferential statistics. (4 marks) 
+(b) The data below shows the sales mad
+e by Kuza Limited over a period of 6 years:
+Year 2017 2018 2019 2020 2021 2022 
+Sales (in millions of shillings
+) 80 78 72 68 70 82 
+Required: 
+(i) The sales forecast for the 
+year 2023 using exponential smoothing (use a smoothing constant of 0.2).
+(4 marks) 
+(ii) The sales forecast for the year 20
+23 using the ordinary least squares method. (6 marks) 
+(iii) Using suitable computations, ad
+vise Kuza Ltd. on the preferred forecast method. (6 marks) 
+(Total: 20 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 38 ---
+CA15 & CF15 Page 4 
+Out of 4 
+QUESTION SEVEN 
+(a) W
+ith the aid of diagrams, describe the 
+THREE types of Kurtosis. (6 marks) 
+(b) Consider the following hypothes
+is:
+HO : µ = 400
+HI : µ = 400
+For a random sample of 12 observations,
+ the sample mean was 407 and the sample standard deviation was 6.
+Required:
+Using a significance level
+ of 0.1, advise whether the null hypothesis should be accepted or rejected . (6 marks) 
+(c) A mobile phone manufacturer
+ orders for a special component called PH -2 from four different supp liers; S1, S2, S3
+and S4. 20% of the components are purchased from S1, 10% from S2, 30% from S3 and the remainder from S4.
+From past experience, the manufa
+cturer knows that 2% of the components from S 1 are defective, 4% of the
+components from S2 are defective, 3% of the components from S3 are defective and 1% of the components from S4
+are defective. All components are place
+d directly in the store before inspection. A worker selects a component for
+use and finds it defective.
+Required:
+(i) The probability that the
+ component was supplied by S1. (4 marks) 
+(ii) The probability that the compo
+nent was supplied by S2 or S4. (4 marks) 
+(Total: 20 marks) 
+............................................................................................................. 
+www.chopi.co.ke
+--- PAGE 39 ---
+Chopi.co.ke
+CA15 & CF15 Page 1 
+Out of 4 
+CPA FOUNDATION LEVEL 
+CIFA FOUNDATION LEVEL 
+QUANTITATIVE ANALYSIS 
+WEDNESDAY: 26 April 2023. Morning Paper.  Time
+ Allowed: 3 hours. 
+Answer any FIVE questions. ALL question
+s carry equal marks.  Show ALL your workings.  Do NOT write anything 
+on this paper.  
+QUESTION ONE 
+(a) A survey was cond
+ucted to establish the number of faulty components from a production process.  The results
+indicated that 0.01% of the components produced were faulty. Each machine produces 10,000 components.
+Required:
+The probability of there being 3
+ or more faulty components assuming a Poisson probability distribution. (4 marks)
+(b) The Sales Manager of XYZ  Ltd. estimates
+ that the revenue function of the company is linear in nature. He has
+observed that at a selling price of Sh.20 0, the company sold 6,0 00 units. When the company increased the selling
+price per unit to Sh.700, the company sales decreased to 1,000 units.
+The Cost Accountant of the company es
+timates that the cost function is quadratic in nature. The following data
+was provided:
+Number of units (Q) 100 200 400 
+Total cost (Sh.) TC 79,000 76,000 124,000 
+Required: 
+(i) The revenue function. (4 mark
+s) 
+(ii) The total cost function. (8 marks) 
+(iii) The profit maximising level of production. (4 marks) 
+(Total: 20 marks) 
+QUESTION TWO 
+(a) A su rvey was recently
+ conducted to determine the preference s of 360 customers with regard to three brands of
+cooking oil namely; sunflower oil, coconut oil and olive oil.
+The following results were obt
+ained:
+220 customers preferred sunflower
+ oil.
+160 customers preferred coconut oil.
+180 customers preferred olive oil.
+80 customers preferred both sunflower oil and coconut oil.
+110 customers preferred both sunflower oil and olive oil.
+100 customers preferred both coconut oil and olive oil.
+50 customers preferred none of the brands of cooking oil.
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 40 ---
+CA15 & CF15 Page 2 
+Out of 4 
+Required: 
+(i) P
+resent the above information i
+n the form of a Venn diagram. (4 marks) 
+(ii) Determine the probability that a customer picked at random prefers all the three brands of cooking oil.
+(2 marks) 
+(iii) Determine the probability that a customer picked at random prefers at least two brands of cooking oil.
+(2 marks) 
+(b) The time taken to complete a parti
+cular task was measured for 250 workers and the results were as shown below:
+Time taken in minutes Number of w
+orkers 
+0 – 5 2 
+5 – 10 2 
+10 – 15 3 
+15 – 20 5 
+20 – 25 5 
+25 – 30 18 
+30 – 40 X 
+40 – 50 100 
+50 – 60 Y 
+Above 60 15 
+Required: 
+(i) Determine the value of 
+X given that the median time taken to complete the task is 40.5 minutes. (6 marks)
+(ii) Determine the value of Y given that the modal time taken to complete the task is 41.5 minutes. (6 marks)
+(Total: 20 marks) 
+QUESTION THREE 
+(a) Using the information given below, determine the level of output necessary from each sector to support a final
+demand of 500 units for sector X1, 1,600 units for sector X2 and 2,000 units for sector X3:
+Output Inputs to 
+X1 X2 X3 Final demand 
+(units) 
+X1 40 40 40 680 
+X2 40 80 80 1,400 
+X3 400 1,200 280 2,120 
+(12 marks) 
+(b) The monthly rent paid by reside
+nts of Hill View Estate is found to be norm ally distributed with a mean of
+Sh.22,150 and a standard deviation of Sh.8,900.
+Required:
+On the basis of a sample of
+ 200 residents:
+(i) Construct a 95% confidence int
+erval for the monthly rent paid. (3 marks) 
+(ii) Test the hypothesis that the amount paid in monthly rent is Sh.20,000 at a 5% significance level.
+(5 marks) 
+(Total: 20 marks) 
+QUESTION FOUR 
+(a) Differentiate between the following terms:
+(i) “Coefficient of skewness” and “
+coefficient of variation”. (4 marks) 
+(ii) “Arithmetic mean” and “harmonic mean”. (4 marks) 
+(b) Mr Rajab Omar is the Marketing Manager of Tintex Limited. He gathered data on the number of sales people
+engaged in a month and the sales made in the last ten months of the year 2022.
+www.chopi.co.ke
+--- PAGE 41 ---
+Chopi.co.ke
+CA15 & CF15 Page 3 
+Out of 4 
+The results 
+were as follows: 
+Year 2022 Number of sales people engaged Sales 
+Month Sh.“000” 
+March 12 23 
+April 11 22 
+May 14 23 
+June 12 24 
+July 15 28 
+August 11 22 
+September 13 23 
+October 14 26 
+November 10 20 
+December  9 17 
+Required: 
+(i) Estimate the total sales function u
+sing the ordinary least squares method. (10 marks) 
+(ii) Predict the sales made in the month of January 2023 when 19 sales people were engaged. (2 marks) 
+(Total: 20 marks) 
+QUESTION FIVE 
+(a) Outline FOUR properties of a set. (4 marks) 
+(b) A trader purchased 7 cartons of apples and 4 cartons of bananas at a total cost of Sh.32,500 in the month of January.
+In the month of February, he purchased 9 cartons of apples and 6 cartons of bananas at a total cost of Sh.43,500.
+Required:
+Calculate the cost of a carton of apples and a carton of bananas using matrix algebra. (6 marks)
+(c) Red Rose Limited has developed a new washing detergent. The company is considering whether or not to market test
+the detergent prior to its launch. Market testing will cost Sh.50 million which may increase the likelihood of success
+of the product if it passes the test. The probability of passing the test is 0.8. If the product fails the test, it is regarded
+as worthless.
+Previous data collected was as follows:
+Probability of  No testing Market testing 
+High success 0.20 0.40 
+Moderate success 0.35 0.40 
+Low success 0.45 0.20 
+Launching the product will cost Sh.150 million and the estimated profits are as follows: 
+High success Sh.900 million 
+Moderate succ
+ess Sh.450 million 
+Low success Sh.225 million 
+Red Rose Limited has the option
+ of selling the product design for Sh.250 million. 
+Required: 
+(i) A decision tree sho
+wing the pay-off and the expected monetary value (EMV) of each decision. (8 marks)
+(ii) Advise the management of the company on the best course of action and the related expected monetary
+value (EMV). (2 marks) 
+(Total: 20 marks) 
+QUESTION SIX 
+(a) In the context of time series analysis, distinguish between the following terms:
+(i) “Mean absolute deviation” and “mea
+n squared error”. (4 marks) 
+(ii) “Additive model” and “multiplicative model”. (4 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 42 ---
+CA15 & CF15 Page 4 
+Out of 4 
+(b) The quarterly profits of Nyota Limit
+ed during the years 2019, 2020, and 2021 were as tabulated below:
+Year Profits in Sh.“million” 
+2019 Quarter 1 Quarter 2 Quarter 3 Quarter 4 
+2019 105 138 116 140 
+2020 104 122 103 146 
+2021 113 149 141 162 
+Required: 
+(i) The three-quarter moving aver
+ages. (4 marks) 
+(ii) The seasonal index for each quarter assuming the multiplicative model. (4 marks) 
+(iii) Derive the deseasonalised profits using the multiplicative model. (4 marks) 
+(Total: 20 marks) 
+QUESTION SEVEN 
+(a) Explain the meaning of the following terms in the context of probability theory:
+(i) Mutually exclusive events. (2 mark
+s) 
+(ii) Independent events. (2 marks) 
+(b) A linear programming problem has be
+en formulated as below:
+Objective function: Max    Z    = 14x +
+ 10y
+Subject to: 1.   4x + 3y  ≤ 240
+2. 2x + y   ≤  100
+3. y     
+≤ 50
+4. x, y     > 0
+Required: 
+(i) Optimal production f
+or x and y using the simplex method. (12 marks) 
+(ii) The slack values for each constraint. (2 marks) 
+(iii) The shadow price for each constraint. (2 marks) 
+(Total: 20 marks) 
+............................................................................................................. 
+www.chopi.co.ke
+--- PAGE 43 ---
+Chopi.co.ke
+CA15 & CF15 Page 1 
+Out of 4 
+CPA FOUNDATION LEVEL 
+CIFA FOUNDATION LEVEL 
+QUANTITATIVE ANALYSIS 
+WEDNESDAY: 7 December 2022. Morning Paper.  Time A
+llowed: 3 hours. 
+Answer any FIVE questions. ALL question
+s carry equal marks.  Show ALL your workings.  Do NOT write anything 
+on this paper.  
+QUESTION ONE 
+(a) State FOUR characteristics
+ of a good measure of dispersion. (4 marks) 
+(b) Explain the meaning of the follo
+wing terms as used in set theory:
+(i) Venn diagram. (2 marks) 
+(ii) Complement of a set. (2 marks) 
+(iii) Union of a set. (2 marks) 
+(c) The management team of Stage Super
+market is interested in determining whether there is any relationship between
+the distance from customers’ residences to the supermarket and the number of visits made to  the supermarket in a
+particular period.
+The following results were obtained:
+Distance from customers’  Number of visits made
+residences to the supermarket
+(in Kilometres)
+1 42 
+2 26 
+3 38 
+4 36 
+5 34 
+6 34 
+7 28 
+8 40 
+9 20 
+10 22 
+Required: 
+(i) Determine whether there is any relationship between the number of visits made to the supermarket and
+the distance from customers’ residences to the supermarket. (8 marks)
+(ii) Calculate the decrease in the number of visits to the supermarket with each unit increase in distance  of
+customers’ residences from the supermarket.
+(2 marks) 
+(Total: 20 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 44 ---
+CA15 & CF15 Page 2 
+Out of 4 
+QUESTION TWO 
+(a) S
+hoetec Ltd., a manufacturer o
+f stylish shoes , estimates that at full scale production , it would sell between 2,000
+and 3,000 pairs of shoes.
+The total monthly revenue in thous
+ands of shillings over this range is represented by the function
+TR = 3x2 + 7x.
+The firm estimates that the margina
+l cost (MC) in thousands of shillings could be represented by the function
+MC = 5x2 – 3x – 2 and fixed cost (FC) will be Sh.1,000 per month.
+Where x is the monthly output in t
+housands of pairs of shoes.
+Required:
+(i) Derive the average cost and
+ average revenue functions of the firm. (4 marks) 
+(ii) Calculate the profit maximising
+ output. (4 marks) 
+(iii) Calculate the price charged upon maximis
+ing profit and how much each pair of shoes would cost.
+(2 marks) 
+(b) An examination was administered to a group of students and the results were as summarised below:
+Result % of candidates 
+Passed w
+ith distinction 10% 
+Passed with credit 60% 
+Failed 30% 
+A candidate fails the examinatio
+n if he/she obtains less than 40% in the examination. In order to pass with distinction, 
+the candidate must obtain at least 75% in the examination. 
+Required: 
+Calculate the mean and st
+andard deviation of the distribution of marks assuming that the marks scored are normally 
+distributed. (10 marks) 
+(Total: 20 marks) 
+QUESTION THREE 
+(a) Distinguish between the following terms as used in probability:
+(i) “Conditional probability” and “marginal probability”. (4 marks) 
+(ii) “Discrete probability distributio
+ns” and “continuous probability distributions”. (4 marks) 
+(b) The banking industry in a given countr
+y is controlled by three banks Faida Bank, Akiba Bank and Ahadi Bank. As
+at 31 December 2020, Faida Bank controlled 30% of the market share, Akiba Bank controlled 50% of the market
+share and Ahadi Bank controlled 20% of the market share.
+A survey was conducted on the 
+market shares of the three banks as at 31 December 2021 and revealed the
+following:
+1. Faida Bank had retained 80% of its mar
+ket share and lost 15% and 5% to Akiba Bank and Ahadi Bank
+respectively.
+2. Akiba Bank had lost 10% and 20% of its market share to Faida Bank and Ahadi Bank respectively.
+3. Ahadi Bank had lost 5% of its market share to Faida Bank and 5% to Akiba Bank.
+4. There were no significant changes in the banking habits of the customers during the year  ended
+31 December 2021.
+www.chopi.co.ke
+--- PAGE 45 ---
+Chopi.co.ke
+CA15 & CF15 Page 3 
+Out of 4 
+Required: 
+(i) Deter
+mine the transition matr
+ix from the above information. (2 marks) 
+(ii) Determine the market shares of th
+e three banks as at 31 December 2021. (3 marks) 
+(iii) The steady state market shares of t
+he three banks. (7 marks) 
+(Total: 20 marks) 
+QUESTION FOUR 
+(a) The Production Manager
+ of Mechtex Ltd., a manufacturer of machines , is investigating a claim  by customers
+about machine A and machine B that it manufactures.
+The claim is that machine A has a longer useful life than machine B.
+A sample of 60 machine As taken from the market reveals that the machine has a mean useful life of 28,000 hours
+with a standard deviation of 9 00 hours. A sample of 80 machine B s has a mean useful life of 30,000 hours with a
+standard deviation of 1,000 hours.
+Required:
+Advise the Production Manager of
+ M echtex Ltd. if t here is a significant difference in the useful lives  of the
+machines.  (8 marks)
+Use a significance level of 5%.
+(b) The following data relate to the number of computers sold each day over the last 240 working days by a leading
+computer firm.
+Number of computers sold Number of days 
+10 – 15 12 
+15 – 20 18 
+20 – 25 35 
+25 – 30 42 
+30 – 35 50 
+35 – 40 45 
+40 – 45 30 
+45 – 50 8 
+Required: 
+(i) The modal number of computers sold. (2 marks) 
+(ii) The quartile deviation of the number of computers sold. (6 marks) 
+(iii) The quartile coefficient of skewness of the number of computers sold. Interpret your results. (4 marks) 
+(Total: 20 marks) 
+QUESTION FIVE 
+(a) Highlight FOUR advantages of decision tree analysis as a tool for decision making. (4 marks) 
+(b) State FOUR characteristics of the binominal distribution. (4 marks) 
+(c) The management of a wall paint manufacturing company is faced with the problem of choosing one of three products
+to add to its existing product line. The potential demand for each product may turn out to be good, moderate or poor
+with probabilities estimated as 0.75, 0.15 and 0.10 respectively.
+The estimated profit or loss under the three states of demand with respect to each product is outlined below:
+Product 
+Type of demand 
+  Good Moderate Poor 
+Silk 
+Matt 
+Gloss 
+  70,000 
+100,000 
+120,000 
+55,000 
+40,000 
+50,000 
+- 10,000
+- 6,000
+- 40,000
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 46 ---
+CA15 & CF15 Page 4 
+Out of 4 
+Required: 
+(i) Ad
+vise the management on t
+he choice of product based on the expected monetary valve (EMV) criterion.
+(4 marks) 
+(ii) Compute the expected opportunity loss for each decision.
+Which decision would you recomm
+end based on the expected opportunity loss? (4 marks) 
+(iii) Compute the expected value of perfect information. (4 marks) 
+(Total: 20 marks) 
+QUESTION SIX 
+(a) Explain THREE roles of quantitative analysis in the decision making of organisations. (6 marks) 
+(b) The data below relate to the profits of Soko Yetu Groceries (in thousands of shillings) over a period of four years.
+Year 
+Quarter 
+ 1 2 3 4 
+2019 
+2020 
+2021 
+2022 
+12 
+13 
+15 
+16 
+9 
+10 
+13 
+12 
+11 
+17 
+20 
+21 
+14 
+20 
+22 
+- 
+Required: 
+(i) Determine the trend eq
+uation using the least squares method. (8 marks) 
+(ii) Calculate the seasonal index 
+for each quarter using the multiplicative model. (6 marks) 
+(Total: 20 marks) 
+QUESTION SEVEN 
+(a) Explain THREE decision making environments. (6 marks) 
+(b) Define the following terms as
+ used in decision making:
+(i) Value of perfect information. (1 ma
+rk) 
+(ii) Regret. . (1 mark) 
+(c) Majux Limited manufactures two
+ types of fruit juices; yellow juice and red juice. 1 packet of yellow juice requires
+3 minutes for cutting of fruits, 6 minutes for blending, 7 minutes for cooling and 2 minutes for packaging. 1 packet of
+red juice requires 5 minutes for cutting  of fruits, 4 minutes for blending, 10 minutes for cooling and 5 minutes for
+packaging.
+The company’s workforce can only s
+pend a maximum of 60 hours on cutting, 711/3 hours on blending, 105 hours on
+cooling and 45 hours on packaging. The profit contribution is Sh.450 for each packet of yellow juice and Sh.380 for
+each packet of red juice.
+Required:
+(i) Formulate a linear pr
+ogramming model from the above information. (5 marks) 
+(ii) Use the graphical method to so
+lve the linear programming model formulated in (c) (i) above. (5 marks) 
+(iii) Calculate the slack or surplus v
+alues for cutting of fruits and interpret its meaning. (2 marks) 
+(Total: 20 marks) 
+............................................................................................................. 
+www.chopi.co.ke
+--- PAGE 47 ---
+Chopi.co.ke
+CA15 & CF15 Page 1 
+Out of 5 
+CPA FOUNDATION LEVEL 
+CIFA FOUNDATION LEVEL 
+QUANTITATIVE ANALYSIS 
+WEDNESDAY: 3 August 2022. Morning paper.  Time
+ Allowed: 3 hours. 
+Answer any FIVE questions. ALL question
+s carry equal marks.  Show ALL your workings.  Do NOT write anything 
+on this paper.  
+QUESTION ONE 
+(a) Soundex Company has re
+ceived an order to supply 900 tables, 1,200 desks and 2,000 chairs. The management of
+Soundex Company has decided that 500 tables, 800 desks and 1,300 chairs could be supplied from their city centre
+branch and the balance of the order could be filled from their industrial area branch.
+Production of each table requires 3 h
+ours in the machining department, 5 hours in the assembly department and
+4 hours in the finishing department. Production of a desk  requires 4 hours in the machining department, 8 hours in
+the assembly department and 6 hours in the finishing department. Production of a chair requires 2 hours in the
+machining department, 3 hours in the assembly department and 5 hours in the finishing department.
+The cost of an hour in the machining,
+ assembly and finishing department is Sh.50, Sh.100 and Sh.150 respectively.
+Required:
+Using matrix algebra:
+(i) Calculate the total number of hours required at each branch. (6 marks) 
+(ii) Calculate the total cost incurred a
+t each branch and the total cost incurred by Soundex Company to supply
+the order. (4 marks)
+(b) The data below relates to the sales o
+f Madi and Sons Electrical Company for the six months ending 30 June 2022:
+Month January February March April May  June
+Sales (Sh.“000”) 80 76 78 82 72 82
+Required:
+Using exponential smoothing with a smoothing constant ( α) of 0.25, determine the forecast sales for the month of
+July 2022.       (4 marks)
+(c) The number of employees working online during a particular week was recorded as shown below:
+Day of the week Number of employees 
+Monday 207 
+Tuesday 185 
+Wednesday 203 
+Thursday 180 
+Friday       225 
+Total 1,000 
+Required: 
+Test the hypothesis that the number of employees who worked online does not depend on the day of week. Use a 
+significance level of 1%.  (6 marks) 
+(Total: 20 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 48 ---
+CA15 & CF15 Page 2 
+Out of 5 
+QUESTION TWO 
+(
+a) TMA Company produces three produc t
+s; Standard, Deluxe and Luxury in three of its departments which are
+Cutting, Assembly and Finishing. T he total available labour hours per week for Cutting, Assembly and Finishing
+departments are 180, 300 and 240 respectively.
+To produce two units of Standard requ
+ires 240 minutes in the Cutting department, half the amount of time in the
+Assembly department and same amount of time in the Finishing department as in the Cutting department.
+To produce one unit of Deluxe re
+quires 60 minutes, 180 minutes and 60 minutes in Cutting, Assembly and
+Finishing departments respectively.
+To produce three units of Luxury requ
+ires 180 minutes in Cutting department and twice the amount of time in both
+Assembly and Finishing departments.
+The contribution per unit from St
+andard, Deluxe and Luxury is Sh.6, Sh.5 and Sh.2 per unit respectively.
+Required:
+(i) Formulate the above problem as a linear programming model. (6 marks) 
+(ii) Prepare an initial simplex tabl
+eau to solve the above model. (4 marks) 
+(b) The above problem was solved using a statistical software and the final simplex tableau is provided below:
+Model variables Slack variables 
+Basis X1 X2 X3 S1 S2 S3 R.H.S 
+X1 1 0 ⅕ ⅗ –⅕ 0 48 
+X2 0 1 ⅗ –⅕ ⅖ 0 84 
+S3 0 0 1 –1 0 1 60 
+Ƶ 0 0 ⅕ 13/5 ⅘ 0 708 
+Required: 
+(i) Explain whether the 
+solution is optimal. Justify your answer. (2 marks) 
+(ii) Determine the optimal solution for TMA Company. (2 marks) 
+(iii) Determine the slack or surplus value f or each constraint. State which one is a slack and which one is a
+surplus. (4 marks) 
+(iv) Determine the shadow price for each constraint. (2 marks) 
+(Total: 20 marks) 
+QUESTION THREE 
+(a) (i)  Explain the term “Markov analysis”. (2 marks) 
+(ii) Highlight four assumptions of Markov analysis. (4 marks) 
+(b) Differentiate between the following sets of terms as used in hypothesis testing:
+(i) “Null hypothesis” and “alternative hypothesis”. (2 marks) 
+(ii) “Parameter” and “statistic”. (2 marks) 
+(c) The following payoff matrix shows the  potential profits in millions of shillings which are expected to arise from
+launching four products S1, S2, S3 and S4 for each level of demand; low, moderate or high.
+      Payoff matrix 
+Demand 
+Product Low Moderate High 
+S1 15 22 29 
+S2 22 24 28 
+S3 32 23 34 
+S4 35 22 33 
+www.chopi.co.ke
+--- PAGE 49 ---
+Chopi.co.ke
+CA15 & CF15 Page 3 
+Out of 5 
+Required: 
+Assu
+ming that the products are
+ mutually exclusive, evaluate the optimal decision using: 
+(i) Maximax criterion. (3 marks) 
+(ii) Maximin criterion. (3 marks) 
+(iii) Minimax regret criterion. (4 marks
+) 
+(Total: 20 marks) 
+QUESTION FOUR 
+(a) A proposal to tea
+ch longer hours on weekdays rather than have weekend classes was put forward by a subject
+lecturer to his students.
+The following results were ob
+tained:
+Opinion 
+Students gender In favour Opposed Undecided 
+Male 40 10 15 
+Female 20 30 20 
+Required: 
+Calculate the probabilit
+y that a student selected at random will be: 
+(i) Female and in favour of the prop
+osal. (2 marks) 
+(ii) Either male or opposed to the proposa
+l. (2 marks) 
+(iii) Undecided given that the stud
+ent is female. (2 marks) 
+(b) The Production Manager of AMIK C
+ompany has provided the following information relating to the number of units
+produced per day in the last 172 days:
+Production per day (units) Frequency
+ in days 
+230 – 260 12 
+260 – 290 18 
+290 – 320 25 
+320 – 350 52 
+350 – 380 35 
+380 – 410 15 
+410 – 440 9 
+440 – 470 6 
+Required: 
+(i) The modal production. (2 marks
+) 
+(ii) The median production. (2 marks) 
+(iii) The quartile deviation of the producti
+on. (6 marks) 
+(c) A curve is defined by the quadrati
+c function
+y    =     x2 – 15x + 54 
+Required: 
+(i) Determine the roots of t
+he equation using the factorisation method. (2 marks) 
+(ii) By using differentiation, determ
+ine the coordinates of the turning point of the curve. (2 marks) 
+(Total: 20 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 50 ---
+CA15 & CF15 Page 4 
+Out of 5 
+QUESTION F
+IVE 
+(a) ABC Ltd. has introduc ed a new  pr
+oduct branded “ Nilan”. The Production Manager wishes  to establish the
+relationship between the total cost of production and the number of units produced. The Production Manager also
+believes that the relationship between the total cost of producing “Nilan” and the number of units produced is linear
+in nature.
+The Production Manager has gath
+ered the following data on the production for the last 8 months:
+Month  Units produced “000” Total cos
+t of production Sh.“000” 
+December 2021 675 6,900 
+January 2022 630 6,480 
+February 2022 825 6,990 
+March 2022 645 7,200 
+April 2022 900 8,560 
+May 2022 600 6,720 
+June 2022 510 6,300 
+July 2022 550 5,250 
+Required: 
+(i) Estimate the total co
+st function using the ordinary least squares method. (7 marks) 
+(ii) The coefficient of determination bet
+ween the number of units produced and the total cost of production.
+(2 marks) 
+(iii) Interpret your answer in (a) (ii) a
+bove. (1 mark) 
+(b) A survey of 850 residents of a c
+ertain town aimed at finding out the brand of vehicles owned, produced the following
+results:
+316  residents owned Nissan vehicles.
+160  residents owned Honda vehicles.
+360  residents owned Toyota vehicles.
+120  residents owned both Nissan and Toyota vehicles.
+56 residents owned both Nissan and Honda vehicles. 
+80 residents owned both Honda and Toyota vehicles. 
+240  residents did not own any of the three brands of vehicles. 
+Required: 
+(i) Present the above information in the form of a Venn diagram. (5 marks) 
+(ii) The number of residents who own all
+ the three brands of vehicles. (3 marks) 
+(iii) The number of residents who own just
+ one of the three brands of vehicles. (2 marks) 
+(Total: 20 marks) 
+QUESTION SIX 
+(a) Outline four qualiti
+es of a good average. (4 marks) 
+(b) The weights of 1 ,000 items are normally distributed with a mean weight of 200  kgs and a standard deviation of
+22 kgs.
+Required:
+(i) Determine the number of items that have weights between 210 kgs and 220 kgs. (2 marks) 
+(ii) Determine the number of items
+ that have weights between 180 kgs and 230 kgs. (2 marks) 
+(iii) Calculate the weight below whic
+h 20% of the items fall. (2 marks) 
+www.chopi.co.ke
+--- PAGE 51 ---
+Chopi.co.ke
+CA15 & CF15 Page 5 
+Out of 5 
+(c) The data bel
+ow shows the probability distribution of profits earned by firms in the manufacturing industry:
+Profit Sh.“million” Probability 
+10 – 20 0.05 
+20 – 30 0.05 
+30 – 40 0.10 
+40 – 50 0.15 
+50 – 60 0.30 
+60 – 70 0.10 
+70 – 80 0.20 
+80 – 90 0.05 
+Required: 
+(i) The expected profit. (4 marks) 
+(ii) The expected standard deviation. (4 marks) 
+(iii) The coefficient of variation. (2 marks) 
+(Total: 20 marks) 
+QUESTION SEVEN 
+(a) A technician at Light Industries Ltd. has established that the probability of a production process producing defective
+output is 0.2. A total of 60 units are produced from the process in a certain production period.
+Required:
+(i) The probability that exactly 10 of the units will be defective assuming a poisson distribution. (3 marks) 
+(ii) The probability that exactly 10 of the units will be defective assuming a binomial distribution. (2 marks)
+(iii) The expected number and standard deviation of units expected to be defective assuming a binomial
+distribution.  (2 marks)
+(b) XYZ Ltd. produces and sells a product branded “Xedo”. The product is produced in two departments; manufacturing
+and assembly.
+The marginal revenue (MR) of XYZ Ltd. is given by the function
+MR = 600 – 0.12q 
+Where q is the number of units produced and sold. 
+The total variable cost (VC) for the two departments is given as follows: 
+Manufacturing department 
+VC = 60q + 0.06q2 
+Assembly department 
+VC = 12q + 0.03q2 
+The total fixed cost for each of the departments is as follows: 
+Sh. 
+Manufacturing department 40,000 
+Assembl
+y department 120,000 
+Required: 
+(i) The total revenue, total cost a
+nd profit functions of XYZ Ltd. (6 marks) 
+(ii) The profit maximising level of output. (2 marks) 
+(iii) The maximum profit of XYZ Ltd. (1 mark) 
+(c) Given that  A = 2 –1 2 and
+1 0
+ 3 
+3 –2 –5
+B = 3 –6 –3
+7 – 14 –7
+–1 2 1
+Show that AB≠ 0 (4 marks) 
+(Total: 20 marks) 
+............................................................................................................. 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 52 ---
+CA15 & CF15 Page 1 
+  Out of 3 
+ 
+ 
+ 
+ 
+ 
+ 
+CPA FOUNDATION LEVEL 
+ 
+CIFA FOUNDATION LEVEL 
+ 
+PILOT PAPER 
+ 
+QUANTITATIVE ANALYSIS 
+ 
+December 2021.           Time Allowed: 3 hours. 
+ 
+Answer any FIVE questions. Marks allocated to each question are shown at the end of the question. Show ALL your 
+workings. 
+ 
+ QUESTION ONE 
+(a) Mashariki Enterprises started business in January 2018 selling photo copiers  in the City . The following information 
+relates to sales and enquiries made during the year ended 31 December 2020. 
+ 
+        Sales calls (x) Copiers sold (y) 
+ 96 41 
+ 40 41 
+ 104 51 
+ 128 60 
+ 164 61 
+ 76 29 
+ 72 39 
+ 88 50 
+ 36 28 
+ 84 43 
+ 180 70 
+ 132 56 
+ 
+     Required: 
+     Derive the regression equation of y on x. (12 marks) 
+ 
+(b) Explain four characteristics of Karl Pearson coefficient of correlation. (8 marks) 
+(Total: 20 marks) 
+QUESTION TWO 
+An electronics dealer in Nakuru has labelled a certain electrical component  with numbers 1 – 50. These components are 
+normally sold to 5 specific customers who pick one each on week days only. Incidentally, the components labelled numbers 
+3, 18, 12, 26 and 46 are defective. 
+ 
+Required: 
+(a) The probability that one customer will have drawn five defective components by the end of 5 weeks.  (15 marks) 
+ 
+(b) The probability that two customers will have drawn two defective components each, two none and the other 
+components, in two weeks. (5 marks) 
+(Total: 20 marks) 
+ 
+ 
+www.chopi.co.ke
+--- PAGE 53 ---
+Chopi.co.ke
+CA15 & CF15 Page 2 
+  Out of 3 
+ 
+ 
+QUESTION THREE 
+(a) Explain the difference between the following terms: 
+ 
+(i) Type 1 and Type II errors. (4 marks) 
+ 
+(ii) One-tail test and two-tail test. (4 marks) 
+ 
+(iii) Normal distribution and t-distribution. (4 marks) 
+ 
+(b) The manufacturer of the TyroX radical truck tyre claims that the mean mileage the tyre  can be driven before the 
+thread wears out is 60,000 km, assuming the mileage wear follows the normal distribution and a standard deviation 
+of 5,000 km. In a sample of 48 tyres, the mileage was found to be 59,500 km. 
+ 
+Required: 
+Test whether this observation is different from the claim by the manufacturer at 5% significance level. (8 marks) 
+(Total: 20 marks) 
+ 
+QUESTION FOUR 
+Agro manufacturers produce three products; Chat, Item and Wit (in thousands) whose demand and cost functions are given as 
+follows: 
+ 
+ Chat: AR = 16 – 3Q ; ATC = 4Q + 8 
+ Item: P = 10 – Q – 2Q2; ATC = Q + 4 
+ Wit: P = 100 – ½Q ; ATC = 300 + 2Q – 2Q2 
+ 
+Required: 
+(a) Output and price levels that will maximize profits. (9 marks) 
+ 
+(b) Maximum profit for each product. (9 marks) 
+ 
+(c) Total profit for the production of the three products at the optimal point. (2 marks) 
+(Total: 20 marks) 
+ 
+QUESTION FIVE 
+The frequency distribution of after tax earnings for Applewood Ltd. for 180 months to 31 December 2020 was as follows: 
+ 
+Profit after tax Sh.“000” (X) Frequency (f) 
+20,000   x < 60,000 8 
+60,000   x < 100,000 11 
+100,000  x < 140,000 23 
+140,000  x < 180,000 38 
+180,000  x < 220,000 45 
+220,000  x < 260,000 32 
+260,000  x < 300,000 19 
+300,000  x < 340,000 4 
+ 
+Required: 
+(a) Modify the formula given below for median to derive another one for: 
+ 
+(i) 25th percentile of the distribution. (6 marks) 
+ 
+(ii) 75th percentile of the distribution. (6 marks) 
+ 
+(Ensure to indicate what each of the symbols used stand for) 
+ 
+(b)  Evaluate: 
+(i) 2nd decile of the distribution.  (4 marks) 
+ 
+(ii) 8th decile of the distribution.  (4 marks) 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 54 ---
+CA15 & CF15 Page 3 
+  Out of 3 
+ 
+ 
+ 
+L = n – C  i  
+  2 
+   f 
+ 
+Where: L = Lower class boundary of the median class 
+ 
+  n = Sample size  
+ 
+   C = Cumulative frequency of the class below the median class 
+ 
+  f = Frequency of the median class    
+  i + Class interval. 
+       (Total: 20 marks) 
+ 
+QUESTION SIX 
+(a) Write short notes on the following formulas in relation to time series analysis: 
+ 
+(i) Y = T x C x S x I   (4 marks) 
+ 
+(ii) YT = bo + bIx   4 marks) 
+ 
+(iii) In YT = In bo + In bI  (4 marks) 
+ 
+(iv) bI = xy – n XY  (4 marks) 
+  x2 – nX2 
+ 
+(b) Explain the process of exponential smoothing. (4 marks) 
+(Total: 20 marks) 
+ 
+QUESTION SEVEN 
+In the context of linear programming, explain each of the following: 
+ 
+(a) Constrained optimisation.   (4 marks) 
+ 
+(b) Inequality constraints.   (4 marks) 
+ 
+(c) Objective function.   (4 marks) 
+ 
+(d) Constrained minimisation.   (4 marks) 
+ 
+(e) Non-negativity constraints.  (4 marks) 
+   (Total: 20 marks) 
+……………………………………………………………………………………. 
+ 
+ 
+ 
+ 
+www.chopi.co.ke
+--- PAGE 55 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 56 ---
+www.chopi.co.ke
+--- PAGE 57 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 58 ---
+www.chopi.co.ke
+--- PAGE 59 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 60 ---
+www.chopi.co.ke
+--- PAGE 61 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 62 ---
+www.chopi.co.ke
+--- PAGE 63 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 64 ---
+www.chopi.co.ke
+--- PAGE 65 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 66 ---
+ CA15 & CF15 Page 1 
+  Out of 5 
+ 
+ 
+ 
+ 
+ 
+CPA FOUNDATION LEVEL 
+ 
+CIFA FOUNDATION LEVEL 
+ 
+QUANTITATIVE ANALYSIS 
+ 
+WEDNESDAY: 3 August 2022. Morning paper.  Time Allowed: 3 hours. 
+ 
+Answer any FIVE questions. ALL questions carry equal marks.  Show ALL your workings.  Do NOT write anything 
+on this paper.  
+ 
+QUESTION ONE 
+(a) Soundex Company has received an order to supply 900 tables, 1,200 desks and 2,000 chairs. The management of 
+Soundex Company has decided that 500 tables, 800 desks and 1,300 chairs could be supplied from their city centre 
+branch and the balance of the order could be filled from their industrial area branch. 
+ 
+Production of each table requires 3 hours in the machining department, 5 hours in the assembly department and                   
+4 hours in the finishing department. Production of a desk  requires 4 hours in the machining department, 8 hours in 
+the assembly department and 6 hours in the finishing department. Production of a chair requires 2 hours in the 
+machining department, 3 hours in the assembly department and 5 hours in the finishing department. 
+ 
+The cost of an hour in the machining, assembly and finishing department is Sh.50, Sh.100 and Sh.150 respectively.  
+ 
+Required: 
+Using matrix algebra: 
+(i) Calculate the total number of hours required at each branch. (6 marks) 
+ 
+(ii) Calculate the total cost incurred at each branch and the total cost incurred by Soundex Company to supply 
+the order. (4 marks) 
+ 
+(b) The data below relates to the sales of Madi and Sons Electrical Company for the six months ending 30 June 2022: 
+ 
+Month January February March April May  June 
+Sales (Sh.“000”) 80 76 78 82 72 82 
+ 
+Required: 
+Using exponential smoothing with a smoothing constant ( α) of 0.25, determine the forecast sales for the month of 
+July 2022.       (4 marks) 
+ 
+(c) The number of employees working online during a particular week was recorded as shown below: 
+ 
+Day of the week Number of employees 
+Monday 207 
+Tuesday 185 
+Wednesday 203 
+Thursday 180 
+Friday                                              225 
+Total 1,000 
+ 
+Required: 
+Test the hypothesis that the number of employees who worked online does not depend on the day of week. Use a 
+significance level of 1%.  (6 marks) 
+  (Total: 20 marks) 
+ 
+www.chopi.co.ke
+--- PAGE 67 ---
+Chopi.co.ke
+ CA15 & CF15 Page 2 
+  Out of 5 
+ 
+ 
+QUESTION TWO 
+(a) TMA Company produces three products ; Standard, Deluxe and Luxury in three of its departments which are  
+Cutting, Assembly and Finishing. T he total available labour hours per week for Cutting, Assembly and Finishing 
+departments are 180, 300 and 240 respectively. 
+ 
+To produce two units of Standard requires 240 minutes in the Cutting department, half the amount of time in the 
+Assembly department and same amount of time in the Finishing department as in the Cutting department. 
+ 
+To produce one unit of Deluxe requires 60 minutes, 180 minutes and 60 minutes in Cutting, Assembly and 
+Finishing departments respectively. 
+ 
+To produce three units of Luxury requires 180 minutes in Cutting department and twice the amount of time in both 
+Assembly and Finishing departments. 
+ 
+The contribution per unit from Standard, Deluxe and Luxury is Sh.6, Sh.5 and Sh.2 per unit respectively.  
+ 
+Required: 
+(i) Formulate the above problem as a linear programming model. (6 marks) 
+ 
+(ii) Prepare an initial simplex tableau to solve the above model. (4 marks)  
+ 
+(b) The above problem was solved using a statistical software and the final simplex tableau is provided below: 
+ 
+ Model variables Slack variables  
+Basis X1 X2 X3 S1 S2 S3 R.H.S 
+X1 1 0 ⅕ ⅗ –⅕ 0 48 
+X2 0 1 ⅗ –⅕ ⅖ 0 84 
+S3 0 0 1 –1 0 1 60 
+Ƶ 0 0 ⅕ 13/5 ⅘ 0 708 
+ 
+Required: 
+(i) Explain whether the solution is optimal. Justify your answer. (2 marks) 
+ 
+(ii) Determine the optimal solution for TMA Company. (2 marks) 
+ 
+(iii) Determine the slack or surplus value f or each constraint. State which one is a slack and which one is a 
+surplus. (4 marks) 
+ 
+(iv) Determine the shadow price for each constraint. (2 marks) 
+ (Total: 20 marks) 
+ 
+QUESTION THREE 
+(a) (i)  Explain the term “Markov analysis”. (2 marks) 
+ 
+(ii) Highlight four assumptions of Markov analysis. (4 marks) 
+ 
+(b) Differentiate between the following sets of terms as used in hypothesis testing: 
+ 
+(i) “Null hypothesis” and “alternative hypothesis”. (2 marks) 
+ 
+(ii) “Parameter” and “statistic”. (2 marks) 
+ 
+(c) The following payoff matrix shows the  potential profits in millions of shillings which are expected to arise from 
+launching four products S1, S2, S3 and S4 for each level of demand; low, moderate or high. 
+ 
+               Payoff matrix 
+ Demand 
+Product Low Moderate High 
+S1 15 22 29 
+S2 22 24 28 
+S3 32 23 34 
+S4 35 22 33 
+ 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 68 ---
+ CA15 & CF15 Page 3 
+  Out of 5 
+ 
+ 
+ Required: 
+ Assuming that the products are mutually exclusive, evaluate the optimal decision using: 
+ 
+(i) Maximax criterion. (3 marks) 
+ 
+(ii) Maximin criterion. (3 marks) 
+ 
+(iii) Minimax regret criterion. (4 marks) 
+ (Total: 20 marks) 
+ 
+QUESTION FOUR 
+(a) A proposal to teach longer hours on weekdays rather than have weekend classes was put forward by a subject 
+lecturer to his students.  
+ 
+The following results were obtained: 
+ 
+                
+ Opinion 
+Students gender In favour Opposed Undecided 
+Male 40 10 15 
+Female 20 30 20 
+ 
+Required: 
+Calculate the probability that a student selected at random will be: 
+ 
+(i) Female and in favour of the proposal.  (2 marks) 
+ 
+(ii) Either male or opposed to the proposal.  (2 marks) 
+ 
+(iii) Undecided given that the student is female.  (2 marks) 
+ 
+(b) The Production Manager of AMIK Company has provided the following information relating to the number of units 
+produced per day in the last 172 days: 
+ 
+Production per day (units) Frequency in days 
+ 230 – 260 12 
+ 260 – 290  18 
+ 290 – 320  25 
+ 320 – 350  52 
+ 350 – 380 35 
+ 380 – 410 15 
+ 410 – 440 9 
+ 440 – 470 6 
+ 
+Required: 
+(i) The modal production.  (2 marks) 
+ 
+(ii) The median production.  (2 marks) 
+ 
+(iii) The quartile deviation of the production. (6 marks) 
+   
+(c) A curve is defined by the quadratic function 
+ y    =     x
+2 – 15x + 54 
+ 
+Required: 
+(i) Determine the roots of the equation using the factorisation method. (2 marks) 
+ 
+(ii) By using differentiation, determine the coordinates of the turning point of the curve. (2 marks) 
+ (Total: 20 marks) 
+ 
+ 
+www.chopi.co.ke
+--- PAGE 69 ---
+Chopi.co.ke
+ CA15 & CF15 Page 4 
+  Out of 5 
+ 
+ 
+QUESTION FIVE 
+(a) ABC Ltd. has introduc ed a new product branded “ Nilan”. The Production Manager wishes  to establish the 
+relationship between the total cost of production and the number of units produced. The Production Manager also 
+believes that the relationship between the total cost of producing “Nilan” and the number of units produced is linear 
+in nature. 
+ 
+The Production Manager has gathered the following data on the production for the last 8 months: 
+ 
+Month  Units produced “000” Total cost of production Sh.“000” 
+December 2021 675 6,900 
+January 2022 630 6,480 
+February 2022 825 6,990 
+March 2022 645 7,200 
+April 2022 900 8,560 
+May 2022 600 6,720 
+June 2022 510 6,300 
+July 2022 550 5,250 
+ 
+Required: 
+(i) Estimate the total cost function using the ordinary least squares method. (7 marks) 
+ 
+(ii) The coefficient of determination between the number of units produced and the total cost of production. 
+ (2 marks) 
+ 
+(iii) Interpret your answer in (a) (ii) above.  (1 mark) 
+ 
+(b) A survey of 850 residents of a certain town aimed at finding out the brand of vehicles owned, produced the following 
+results: 
+ 
+316  residents owned Nissan vehicles. 
+160  residents owned Honda vehicles. 
+360  residents owned Toyota vehicles. 
+120  residents owned both Nissan and Toyota vehicles. 
+56  residents owned both Nissan and Honda vehicles. 
+80  residents owned both Honda and Toyota vehicles. 
+240  residents did not own any of the three brands of vehicles. 
+ 
+Required: 
+(i) Present the above information in the form of a Venn diagram. (5 marks) 
+ 
+(ii) The number of residents who own all the three brands of vehicles. (3 marks) 
+ 
+(iii) The number of residents who own just one of the three brands of vehicles. (2 marks) 
+ (Total: 20 marks) 
+ 
+QUESTION SIX 
+(a) Outline four qualities of a good average. (4 marks) 
+ 
+(b) The weights of 1 ,000 items are normally distributed with a mean weight of 200  kgs and a standard deviation of           
+22 kgs. 
+ 
+Required: 
+(i) Determine the number of items that have weights between 210 kgs and 220 kgs. (2 marks) 
+ 
+(ii) Determine the number of items that have weights between 180 kgs and 230 kgs. (2 marks) 
+ 
+(iii) Calculate the weight below which 20% of the items fall. (2 marks) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 70 ---
+ CA15 & CF15 Page 5 
+  Out of 5 
+ 
+ 
+(c) The data below shows the probability distribution of profits earned by firms in the manufacturing industry: 
+ 
+Profit Sh.“million” Probability 
+ 10 – 20  0.05 
+ 20 – 30 0.05 
+ 30 – 40  0.10 
+ 40 – 50  0.15 
+ 50 – 60  0.30 
+ 60 – 70  0.10 
+ 70 – 80  0.20  
+ 80 – 90  0.05  
+ 
+Required: 
+(i) The expected profit.  (4 marks) 
+ 
+(ii) The expected standard deviation. (4 marks) 
+ 
+(iii) The coefficient of variation.  (2 marks) 
+  (Total: 20 marks) 
+ 
+QUESTION SEVEN 
+(a) A technician at Light Industries Ltd. has established that the probability of a production process producing defective 
+output is 0.2. A total of 60 units are produced from the process in a certain production period. 
+ 
+Required: 
+(i) The probability that exactly 10 of the units will be defective assuming a poisson distribution. (3 marks) 
+ 
+(ii) The probability that exactly 10 of the units will be defective assuming a binomial distribution. (2 marks) 
+ 
+(iii) The expected number and standard deviation of units expected to be defective assuming a binomial 
+distribution.  (2 marks) 
+ 
+(b) XYZ Ltd. produces and sells a product branded “Xedo”. The product is produced in two departments; manufacturing 
+and assembly. 
+ 
+The marginal revenue (MR) of XYZ Ltd. is given by the function  
+ MR = 600 – 0.12q 
+ Where q is the number of units produced and sold. 
+The total variable cost (VC) for the two departments is given as follows: 
+ 
+Manufacturing department 
+VC = 60q + 0.06q2 
+ 
+Assembly department 
+VC = 12q + 0.03q2 
+ 
+The total fixed cost for each of the departments is as follows: 
+  Sh. 
+ Manufacturing department   40,000 
+ Assembly department   120,000 
+ 
+ Required: 
+(i) The total revenue, total cost and profit functions of XYZ Ltd. (6 marks) 
+ 
+(ii) The profit maximising level of output.  (2 marks) 
+ 
+(iii) The maximum profit of XYZ Ltd. (1 mark) 
+ 
+(c) Given that  A = 2 –1 2 and 
+   1 0 3 
+   3 –2 –5 
+ 
+ B = 3 –6 –3 
+   7 – 14 –7 
+   –1 2 1 
+ 
+Show that AB≠ 0     (4 marks) 
+       (Total: 20 marks) 
+............................................................................................................. 
+www.chopi.co.ke
+--- PAGE 71 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 72 ---
+www.chopi.co.ke
+--- PAGE 73 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 74 ---
+www.chopi.co.ke
+--- PAGE 75 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 76 ---
+www.chopi.co.ke
+--- PAGE 77 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 78 ---
+www.chopi.co.ke
+--- PAGE 79 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 80 ---
+www.chopi.co.ke
+--- PAGE 81 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 82 ---
+www.chopi.co.ke
+--- PAGE 83 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 84 ---
+www.chopi.co.ke
+--- PAGE 85 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 86 ---
+www.chopi.co.ke
+--- PAGE 87 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 88 ---
+www.chopi.co.ke
+--- PAGE 89 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 90 ---
+www.chopi.co.ke
+--- PAGE 91 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 92 ---
+www.chopi.co.ke
+--- PAGE 93 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 94 ---
+www.chopi.co.ke
+--- PAGE 95 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 96 ---
+www.chopi.co.ke
+--- PAGE 97 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 98 ---
+www.chopi.co.ke
+--- PAGE 99 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 100 ---
+www.chopi.co.ke
+--- PAGE 101 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 102 ---
+www.chopi.co.ke
+--- PAGE 103 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 104 ---
+www.chopi.co.ke
+--- PAGE 105 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 106 ---
+www.chopi.co.ke
+--- PAGE 107 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 108 ---
+www.chopi.co.ke
+--- PAGE 109 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 110 ---
+www.chopi.co.ke
+--- PAGE 111 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 112 ---
+www.chopi.co.ke
+--- PAGE 113 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 114 ---
+www.chopi.co.ke
+--- PAGE 115 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 116 ---
+www.chopi.co.ke
+--- PAGE 117 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 118 ---
+www.chopi.co.ke
+--- PAGE 119 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 120 ---
+www.chopi.co.ke
+--- PAGE 121 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 122 ---
+www.chopi.co.ke
+--- PAGE 123 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 124 ---
+www.chopi.co.ke
+--- PAGE 125 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 126 ---
+www.chopi.co.ke
+--- PAGE 127 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 128 ---
+www.chopi.co.ke
+--- PAGE 129 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 130 ---
+www.chopi.co.ke
+--- PAGE 131 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 132 ---
+www.chopi.co.ke
+--- PAGE 133 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 134 ---
+www.chopi.co.ke
+--- PAGE 135 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 136 ---
+www.chopi.co.ke
+--- PAGE 137 ---
+Chopi.co.ke
+For Solutions/Answers WhatsApp: 0724 962 477
+--- PAGE 138 ---
+www.chopi.co.ke
