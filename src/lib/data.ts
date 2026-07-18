@@ -111,3 +111,77 @@ export const SUBJECT_ICONS: Record<string, string> = {
   fa: "📒",
   qa: "📐",
 };
+
+// ─────────────────────────────────────────────────────────────
+// Parsed Papers (AI-extracted rich format from parse-paper-ai.ts)
+// ─────────────────────────────────────────────────────────────
+export interface SubSubPart {
+  label: string;
+  text: string;
+  table_markdown: string | null;
+  marks: number | null;
+}
+
+export interface SubPart {
+  label: string;
+  text: string;
+  table_markdown: string | null;
+  sub_sub_parts: SubSubPart[];
+  marks: number | null;
+}
+
+export interface ParsedQuestion {
+  question_number: string;
+  question_title: string | null;
+  instructions: string | null;
+  sub_parts: SubPart[];
+  extraction_confidence: "high" | "medium" | "low";
+  confidence_note: string | null;
+}
+
+export interface PaperMetadata {
+  subject: string;
+  level: string;
+  sitting: string;
+  total_questions_detected: number;
+}
+
+export interface ParsedPaper {
+  paper_metadata: PaperMetadata;
+  questions: ParsedQuestion[];
+  unparsed_fragments: string[];
+  parsed_at: string;
+  model: string;
+}
+
+export type ParsedPapersStore = Record<string, ParsedPaper>;
+
+/**
+ * Returns the full parsed papers store keyed by "subject-Sitting Year".
+ * Returns an empty object if the file doesn't exist yet.
+ */
+export function getAllParsedPapers(): ParsedPapersStore {
+  return safeRead<ParsedPapersStore>("parsed_papers.json", {});
+}
+
+/**
+ * Returns one parsed paper or null.
+ * key format: "fa-April 2026"
+ */
+export function getParsedPaper(
+  subject: string,
+  sitting: string
+): ParsedPaper | null {
+  const store = getAllParsedPapers();
+  return store[`${subject}-${sitting}`] ?? null;
+}
+
+/**
+ * Returns all parsed papers for a given subject.
+ */
+export function getParsedPapersForSubject(subject: string): ParsedPaper[] {
+  const store = getAllParsedPapers();
+  return Object.entries(store)
+    .filter(([key]) => key.startsWith(`${subject}-`))
+    .map(([, paper]) => paper);
+}

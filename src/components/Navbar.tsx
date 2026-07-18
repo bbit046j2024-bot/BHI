@@ -3,12 +3,10 @@
 import { SignInButton, SignUpButton, UserButton, useAuth } from "@clerk/nextjs";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { useSearchParams } from "next/navigation";
 
 export default function Navbar() {
   const { isSignedIn, isLoaded } = useAuth();
   const [scrolled, setScrolled] = useState(false);
-  const searchParams = useSearchParams();
 
   // Shadow navbar on scroll
   useEffect(() => {

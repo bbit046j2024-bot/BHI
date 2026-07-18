@@ -88,7 +88,7 @@ const TAXONOMY: Record<string, Record<string, string[]>> = {
   },
 };
 
-function detectTopic(subject: keyof typeof TAXONOMY, text: string): string {
+function detectTopic(subject: "economics" | "fa" | "qa", text: string): string {
   const lower = text.toLowerCase();
   const topics = TAXONOMY[subject];
   let best = { topic: Object.keys(topics)[0], matchLen: 0 };
@@ -234,7 +234,7 @@ const MARKS_RE = /\((\d+)\s*marks?\)/i;
 const TOTAL_MARKS_RE = /\(Total:\s*(\d+)\s*marks?\)/i;
 
 function parseQuestionParts(
-  subject: keyof typeof TAXONOMY,
+  subject: "economics" | "fa" | "qa",
   sitting: string,
   year: number,
   questionNumber: string,

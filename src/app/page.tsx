@@ -1,7 +1,6 @@
 "use client";
 
 import { SignInButton, SignUpButton, useAuth } from "@clerk/nextjs";
-import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useEffect, useRef } from "react";
 

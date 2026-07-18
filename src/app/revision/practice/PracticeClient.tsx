@@ -33,7 +33,7 @@ export default function PracticeClient({ questions, explanations }: Props) {
   ].sort();
 
   const startQuiz = useCallback(() => {
-    let pool = questions.filter((q) => {
+    const pool = questions.filter((q) => {
       if (subject !== "all" && q.subject !== subject) return false;
       if (topic !== "all" && q.topic !== topic) return false;
       return true;
@@ -53,7 +53,11 @@ export default function PracticeClient({ questions, explanations }: Props) {
   const toggleReveal = (id: string) => {
     setRevealed((prev) => {
       const next = new Set(prev);
-      next.has(id) ? next.delete(id) : next.add(id);
+      if (next.has(id)) {
+        next.delete(id);
+      } else {
+        next.add(id);
+      }
       return next;
     });
   };
@@ -179,7 +183,7 @@ export default function PracticeClient({ questions, explanations }: Props) {
           </span>
           <span className="topic-badge">{q.topic}</span>
           <span className="text-xs text-slate-400">
-            {q.sitting ?? ""} {q.year ?? ""}
+            {SUBJECT_LABELS[q.subject]} · {q.sitting} {q.year}
           </span>
           <span className="mark-badge ml-auto">{q.marks} mks</span>
         </div>
